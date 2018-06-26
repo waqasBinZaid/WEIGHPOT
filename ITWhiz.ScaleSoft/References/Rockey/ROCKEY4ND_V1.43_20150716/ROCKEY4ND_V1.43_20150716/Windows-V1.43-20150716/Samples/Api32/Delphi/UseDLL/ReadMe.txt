@@ -1,0 +1,1 @@
+Please copy the according Rockey4ND.dll in \Api32\Dynamic folder to current folder

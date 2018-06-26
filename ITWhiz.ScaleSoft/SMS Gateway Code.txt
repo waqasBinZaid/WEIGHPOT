@@ -1,0 +1,18 @@
+        Dim s As New ViaNettSMS(username:="YourUsername", password:="YourPassword")
+        Dim result As ViaNettSMS.Result
+        Try
+            result = s.sendSMS(msgsender:= "4790000000", destinationaddr:= "4790000000", message:= "hello world")
+
+
+            If result.Success Then
+                Debug.WriteLine("Message successfully sent")
+            Else
+                Debug.WriteLine("Received error: " & result.ErrorCode & " " & result.ErrorMessage)
+            End If
+
+
+        Catch ex As System.Net.WebException
+            'Error occurred while connecting to server.
+            Debug.WriteLine(ex.Message)
+        End Try
+

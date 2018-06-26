@@ -1,0 +1,1744 @@
+2017-11-02 00:00:12.9557 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:00:13.0856 INFO Initialising Components...
+2017-11-02 00:00:16.1179 INFO Checking Database Connection...
+2017-11-02 00:00:16.1671 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:19.2933 INFO Finishing Initialisation...
+2017-11-02 00:00:19.3087 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:19.3244 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:00:24.0393 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:24.0393 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:00:24.0548 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:24.0548 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:00:24.0704 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:24.0704 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:00:27.8310 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:27.8310 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:00:27.8466 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:27.8466 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:00:32.7252 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:32.7252 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:00:45.4135 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:45.4135 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:00:45.4352 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:45.4352 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:00:49.7747 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:00:49.7747 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:20:44.5986 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:20:44.7675 INFO Initialising Components...
+2017-11-02 00:20:47.8073 INFO Checking Database Connection...
+2017-11-02 00:20:47.8384 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:20:51.0089 INFO Finishing Initialisation...
+2017-11-02 00:20:51.0089 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:20:51.0243 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:20:56.7053 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:20:56.7211 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:20:56.7680 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:20:56.7680 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:20:56.7835 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:20:56.7835 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:21:15.8277 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:15.8499 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:21:15.8655 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:15.8655 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:21:22.6351 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:22.6531 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:21:22.6531 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:22.6531 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:21:31.7043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:31.7680 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:21:31.7735 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:31.7735 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:21:41.8560 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:41.8715 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:21:41.8932 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:21:41.9090 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:25:23.1859 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:25:23.3429 INFO Initialising Components...
+2017-11-02 00:25:26.4003 INFO Checking Database Connection...
+2017-11-02 00:25:26.4346 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:29.5454 INFO Finishing Initialisation...
+2017-11-02 00:25:29.5609 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:29.5765 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:25:35.3444 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:35.3444 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:25:35.3600 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:35.3600 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:25:35.3757 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:35.3757 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:25:39.2527 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:39.2683 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:25:39.2839 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:39.2839 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:25:44.7401 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:44.7401 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:25:44.7561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:44.7561 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:25:50.7501 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:50.7501 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:25:50.7501 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:25:50.7672 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:31:15.9630 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:31:16.1224 INFO Initialising Components...
+2017-11-02 00:31:19.1743 INFO Checking Database Connection...
+2017-11-02 00:31:19.2054 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:22.3135 INFO Finishing Initialisation...
+2017-11-02 00:31:22.3135 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:22.3135 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:31:27.3254 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:27.3254 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:31:27.3254 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:27.3410 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:31:27.3410 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:27.3567 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:31:33.4265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:33.4265 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:31:33.4421 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:33.4421 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:31:37.5310 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:37.5310 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:31:41.3847 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:31:41.3847 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:34:29.2321 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:34:29.3925 INFO Initialising Components...
+2017-11-02 00:34:32.4267 INFO Checking Database Connection...
+2017-11-02 00:34:32.4640 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:35.5745 INFO Finishing Initialisation...
+2017-11-02 00:34:35.5899 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:35.5899 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:34:39.4421 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:39.4600 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:34:39.4600 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:39.4600 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:34:39.4797 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:39.4797 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:34:43.3051 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:43.3208 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:34:43.3208 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:43.3364 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:34:43.9522 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:34:43.9683 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 00:37:42.4736 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:37:42.5899 INFO Initialising Components...
+2017-11-02 00:37:45.6731 INFO Checking Database Connection...
+2017-11-02 00:37:45.7042 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:48.8109 INFO Finishing Initialisation...
+2017-11-02 00:37:48.8109 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:48.8265 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:37:51.1504 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:51.1504 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:37:51.1664 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:51.1664 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:37:51.1821 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:51.1821 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:37:56.7376 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:56.7573 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:37:56.7573 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:37:56.7754 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:38:02.1994 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:02.2147 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:38:06.8499 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:06.8499 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:38:21.3031 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:21.3187 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:38:21.3187 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:21.3343 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:38:28.6472 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:28.6472 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:38:28.6626 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:28.6783 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:38:56.3164 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:56.3319 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:38:56.3475 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:38:56.3475 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:39:47.7514 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:39:47.8998 INFO Initialising Components...
+2017-11-02 00:39:50.9357 INFO Checking Database Connection...
+2017-11-02 00:39:50.9511 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:39:54.0416 INFO Finishing Initialisation...
+2017-11-02 00:39:54.0416 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:39:54.0572 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:39:56.9588 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:39:56.9588 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:39:56.9745 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:39:56.9745 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:39:56.9745 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:39:56.9901 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:40:01.5664 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:40:01.5664 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:40:01.5820 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:40:01.5820 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:40:08.7222 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:40:08.7222 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:41:55.0265 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:41:55.1674 INFO Initialising Components...
+2017-11-02 00:41:58.2182 INFO Checking Database Connection...
+2017-11-02 00:41:58.2556 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:01.3726 INFO Finishing Initialisation...
+2017-11-02 00:42:01.3726 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:01.3882 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:42:07.3642 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:07.3642 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:42:07.3796 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:07.3796 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:42:07.3953 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:07.3953 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:42:12.6840 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:12.6840 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:42:12.6996 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:12.7153 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:42:17.4302 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:17.4302 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:42:27.0919 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:42:27.0919 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:46:38.2567 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:46:38.3966 INFO Initialising Components...
+2017-11-02 00:46:41.4414 INFO Checking Database Connection...
+2017-11-02 00:46:41.4726 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:44.5898 INFO Finishing Initialisation...
+2017-11-02 00:46:44.5898 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:44.6113 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:46:48.9463 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:48.9658 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:46:48.9749 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:48.9749 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:46:48.9749 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:48.9749 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:46:56.8869 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:56.9026 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:46:56.9182 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:46:56.9182 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:47:03.8119 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:03.8119 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:47:03.8275 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:03.8275 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:47:13.2111 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:13.2111 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:47:13.2266 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:13.2266 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:47:36.0731 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:36.0731 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:47:36.0885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:47:36.0885 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:48:58.3907 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:48:58.5386 INFO Initialising Components...
+2017-11-02 00:49:01.5795 INFO Checking Database Connection...
+2017-11-02 00:49:01.6106 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:04.6975 INFO Finishing Initialisation...
+2017-11-02 00:49:04.7156 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:04.7356 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:49:09.2490 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:09.2644 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:49:09.2644 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:09.2644 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:49:09.2866 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:09.2866 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:49:13.6314 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:13.6470 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:49:13.6626 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:13.6626 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:49:17.6374 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:17.6374 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:49:17.6529 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:17.6529 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:49:24.4122 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:24.4319 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:49:24.4319 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:49:24.4319 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:50:23.3463 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:50:23.5082 INFO Initialising Components...
+2017-11-02 00:50:26.5544 INFO Checking Database Connection...
+2017-11-02 00:50:26.5856 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:29.6742 INFO Finishing Initialisation...
+2017-11-02 00:50:29.6742 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:29.6898 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:50:35.2615 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:35.2615 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:50:35.2769 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:35.2769 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:50:35.2925 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:35.2925 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:50:40.5155 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:40.5312 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:50:40.5468 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:40.5468 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:50:45.8738 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:45.8738 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:50:45.8894 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:50:45.8894 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:53:07.1472 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:53:07.2926 INFO Initialising Components...
+2017-11-02 00:53:10.3246 INFO Checking Database Connection...
+2017-11-02 00:53:10.3584 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:13.4491 INFO Finishing Initialisation...
+2017-11-02 00:53:13.4645 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:13.4645 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:53:21.3093 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:21.3247 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:53:21.3247 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:21.3247 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:53:21.3459 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:21.3459 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:53:26.9698 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:26.9698 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:53:26.9855 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:26.9855 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:53:32.0601 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:32.0601 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:53:32.0762 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:53:32.0762 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:58:29.0607 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 00:58:29.2066 INFO Initialising Components...
+2017-11-02 00:58:32.2549 INFO Checking Database Connection...
+2017-11-02 00:58:32.2925 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:58:35.3942 INFO Finishing Initialisation...
+2017-11-02 00:58:35.3942 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:58:35.4097 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:58:58.6458 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:58:58.6615 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 00:58:58.6615 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:58:58.6615 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 00:58:58.6771 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:58:58.6771 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:59:04.2378 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:04.2378 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 00:59:04.2661 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:04.2703 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 00:59:08.3296 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:08.3296 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:59:08.3636 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:08.3790 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 00:59:14.4421 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:14.4421 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 00:59:14.4578 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 00:59:14.4578 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:06:19.0166 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 01:06:19.1815 INFO Initialising Components...
+2017-11-02 01:06:22.2130 INFO Checking Database Connection...
+2017-11-02 01:06:22.2441 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:25.3364 INFO Finishing Initialisation...
+2017-11-02 01:06:25.3364 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:25.3519 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:06:36.9284 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:36.9440 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 01:06:36.9440 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:36.9440 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 01:06:36.9596 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:36.9596 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:06:40.5846 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:40.5846 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:06:40.6179 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:40.6179 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:06:45.3284 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:45.3284 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:06:45.3441 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:45.3441 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:06:54.2971 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:54.2971 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:06:54.3126 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:06:54.3126 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:15:54.2745 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 01:15:54.4053 INFO Initialising Components...
+2017-11-02 01:15:57.4439 INFO Checking Database Connection...
+2017-11-02 01:15:57.4782 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:00.5953 INFO Finishing Initialisation...
+2017-11-02 01:16:00.6108 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:00.6264 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:16:23.6642 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:23.6841 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 01:16:23.6841 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:23.6841 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 01:16:23.7018 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:23.7018 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:16:26.6883 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:26.6883 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:16:26.7076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:26.7076 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:16:31.0259 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:31.0413 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:16:31.0413 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:31.0570 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:16:36.8158 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:36.8158 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:16:36.8314 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:36.8314 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:16:41.6555 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:41.6555 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:16:41.6711 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:41.6711 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:16:43.0258 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:16:43.0258 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 01:19:22.0027 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 01:19:22.1531 INFO Initialising Components...
+2017-11-02 01:19:25.1908 INFO Checking Database Connection...
+2017-11-02 01:19:25.2221 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:28.3174 INFO Finishing Initialisation...
+2017-11-02 01:19:28.3330 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:28.3542 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:19:35.9060 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:35.9060 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 01:19:35.9214 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:35.9214 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 01:19:35.9370 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:35.9370 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:19:40.0619 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:40.0619 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:19:40.0836 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:40.0836 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:19:44.8760 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:44.8760 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:19:44.8981 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:19:44.8981 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:20:08.6848 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:08.7004 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:20:08.7004 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:08.7160 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:20:37.3967 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 01:20:37.5451 INFO Initialising Components...
+2017-11-02 01:20:40.5806 INFO Checking Database Connection...
+2017-11-02 01:20:40.6182 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:43.7405 INFO Finishing Initialisation...
+2017-11-02 01:20:43.7560 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:43.7560 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:20:47.5898 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:47.5898 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 01:20:47.6055 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:47.6055 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 01:20:47.6055 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:47.6216 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:20:51.2484 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:51.2640 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:20:51.2796 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:51.2796 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:20:57.0375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:57.0375 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:20:57.0375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:20:57.0551 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:21:01.5636 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:21:01.5636 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:21:01.5790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:21:01.5790 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 01:21:57.8923 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:21:57.8923 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 01:21:57.9079 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:21:57.9079 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 01:22:03.0137 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:03.0137 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:22:03.0291 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:03.0291 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 01:22:09.1966 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:09.1966 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =55
+2017-11-02 01:22:09.2186 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:09.2186 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =55
+2017-11-02 01:22:46.4976 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:46.5147 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =55
+2017-11-02 01:22:46.5147 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 01:22:46.5147 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =55
+2017-11-02 02:03:21.0176 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:03:21.3546 INFO Initialising Components...
+2017-11-02 02:03:24.4514 INFO Checking Database Connection...
+2017-11-02 02:03:24.7586 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:28.1641 INFO Finishing Initialisation...
+2017-11-02 02:03:28.1842 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:28.2273 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:03:32.8426 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:32.9181 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:03:32.9358 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:32.9458 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:03:32.9719 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:32.9719 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:03:37.8052 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:37.8644 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:03:37.9698 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:37.9809 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:03:42.2837 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:42.2837 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:03:42.3847 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:42.3847 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:03:45.5769 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:45.5810 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:03:45.5810 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:45.5810 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:03:57.7142 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:57.7142 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:03:57.7272 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:03:57.7272 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:04:24.4218 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:04:24.4278 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:04:24.4278 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:04:24.4278 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:04:24.7637 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:04:24.7777 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:04:27.1746 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:04:27.1746 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:04:27.1922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:04:27.1922 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:12:47.2900 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:12:47.4880 INFO Initialising Components...
+2017-11-02 02:12:50.5133 INFO Checking Database Connection...
+2017-11-02 02:12:50.5983 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:12:53.7097 INFO Finishing Initialisation...
+2017-11-02 02:12:53.7920 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:12:53.8081 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:12:58.2112 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:12:58.2909 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:12:58.3090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:12:58.3161 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:12:58.3311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:12:58.3311 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:13:02.9158 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:02.9158 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:13:02.9412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:02.9412 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:13:09.3077 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:09.3077 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:13:09.3458 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:09.3508 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:13:32.8583 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:32.8633 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:13:32.8633 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:13:32.8633 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:17:04.8471 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:17:05.0080 INFO Initialising Components...
+2017-11-02 02:17:08.0440 INFO Checking Database Connection...
+2017-11-02 02:17:08.0918 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:11.2148 INFO Finishing Initialisation...
+2017-11-02 02:17:11.2328 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:11.2559 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:17:17.3077 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:17.3580 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:17:17.3680 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:17.3680 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:17:17.3841 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:17.3841 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:17:21.9290 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:21.9290 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:17:21.9557 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:21.9557 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:17:30.5551 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:30.5551 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:17:30.6507 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:30.6678 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:17:52.2016 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:52.2081 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:17:52.2081 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:52.2211 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:17:52.2848 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:17:52.2848 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:18:00.3892 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:00.3932 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:18:00.3932 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:00.5486 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:27.9066 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:27.9856 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:18:27.9976 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:28.0027 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:18:28.3125 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:28.3175 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:18:30.7684 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:30.7684 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:18:30.7931 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:18:30.8001 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:21:35.5482 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:21:35.7262 INFO Initialising Components...
+2017-11-02 02:21:38.7654 INFO Checking Database Connection...
+2017-11-02 02:21:38.7879 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:41.8610 INFO Finishing Initialisation...
+2017-11-02 02:21:41.8856 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:41.9022 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:21:47.1402 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:47.1473 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:21:47.1473 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:47.1623 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:21:47.1623 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:47.1623 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:21:52.6436 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:52.6436 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:21:52.6654 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:21:52.6654 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:22:04.4117 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:04.4117 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:22:04.4268 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:04.4268 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:22:13.3058 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:13.3058 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:22:13.3248 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:13.3308 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =51
+2017-11-02 02:22:24.3461 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:24.3461 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:22:24.3461 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:22:24.3647 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:25:38.4886 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:25:38.6340 INFO Initialising Components...
+2017-11-02 02:25:41.6620 INFO Checking Database Connection...
+2017-11-02 02:25:41.7196 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:25:44.7951 INFO Finishing Initialisation...
+2017-11-02 02:25:44.8086 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:25:44.8176 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:26:13.1403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:13.1463 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:26:13.1463 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:13.1618 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:26:13.1618 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:13.1618 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:26:17.4109 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:17.4109 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:26:17.4323 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:17.4323 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:26:21.2511 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:21.3039 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:26:21.3329 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:26:21.3329 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:29:24.0241 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:29:24.2402 INFO Initialising Components...
+2017-11-02 02:29:27.2734 INFO Checking Database Connection...
+2017-11-02 02:29:27.3147 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:30.4699 INFO Finishing Initialisation...
+2017-11-02 02:29:30.4790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:30.4880 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:29:35.1315 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:35.1315 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:29:35.1445 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:35.1445 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:29:35.1445 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:35.1616 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:29:38.3939 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:38.3939 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:29:38.4132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:38.4132 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:29:42.6109 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:42.6162 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:29:42.6162 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:42.6297 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:29:55.7225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:55.7225 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:29:55.7375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:29:55.7375 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:34:32.8488 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:34:32.9912 INFO Initialising Components...
+2017-11-02 02:34:36.0230 INFO Checking Database Connection...
+2017-11-02 02:34:36.0670 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:39.1703 INFO Finishing Initialisation...
+2017-11-02 02:34:39.1753 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:39.1753 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:34:42.8669 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:42.9545 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:34:42.9810 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:42.9921 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:34:42.9921 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:43.0071 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:34:46.4021 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:46.4119 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:34:46.4272 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:46.4272 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:34:50.3223 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:50.3223 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:34:50.3383 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:50.3383 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:34:55.5063 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:55.5063 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:34:55.5063 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:34:55.5210 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:35:24.3700 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:35:24.3700 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:35:24.3858 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:35:24.3858 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:35:39.7460 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:35:39.7460 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:35:39.7620 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:35:39.7680 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:40:25.2405 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:40:25.4771 INFO Initialising Components...
+2017-11-02 02:40:28.5217 INFO Checking Database Connection...
+2017-11-02 02:40:28.5649 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:31.6580 INFO Finishing Initialisation...
+2017-11-02 02:40:31.6750 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:31.6940 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:40:35.3465 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:35.3465 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:40:35.3465 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:35.3656 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:40:35.3656 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:35.3776 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:40:39.1241 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:39.1282 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:40:39.1432 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:39.1432 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:40:42.8189 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:42.8189 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:40:42.8330 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:40:42.8330 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:41:02.2176 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:41:02.2226 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:41:02.2226 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:41:02.2226 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:42:46.9132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:46.9963 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:47.0044 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:47.0044 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:53.2002 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:53.2092 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:53.2303 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:53.2303 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:53.2463 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:53.2523 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:55.0416 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:55.0416 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =50
+2017-11-02 02:42:55.0566 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:42:55.2062 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:07.2844 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:07.2844 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:43:07.3066 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:07.3066 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:43:12.8177 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:12.8177 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:12.8334 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:12.8334 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:19.6084 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:19.6242 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:19.6473 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:19.6473 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:19.6703 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:19.6789 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:22.6023 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:22.6023 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =49
+2017-11-02 02:43:22.6144 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:22.7559 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:30.0709 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:30.0709 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:43:30.0910 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:30.0910 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:43:30.3528 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:43:30.3528 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:44:12.3987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:12.3987 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:44:12.4147 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:12.4147 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:44:14.4037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:14.5721 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:14.5721 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:44:14.5862 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:24.8297 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:24.8348 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:44:24.8488 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:24.8488 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:44:25.1160 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:25.1160 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:44:49.8210 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:49.8210 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:44:49.8370 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:49.8370 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:44:52.1541 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:52.3396 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:52.3476 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:44:52.3617 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:59.7838 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:59.7838 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:44:59.8055 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:59.8055 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:44:59.9273 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:44:59.9495 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:47:10.8179 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 02:47:10.9994 INFO Initialising Components...
+2017-11-02 02:47:14.0289 INFO Checking Database Connection...
+2017-11-02 02:47:14.0590 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:17.1315 INFO Finishing Initialisation...
+2017-11-02 02:47:17.1315 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:17.1576 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:47:30.5717 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:30.5717 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 02:47:30.5857 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:30.5857 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 02:47:30.5977 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:30.5977 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:47:37.9139 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:37.9139 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:47:37.9279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:37.9279 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:47:38.2990 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:47:38.3029 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:48:04.6252 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:04.6313 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:48:04.6313 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:04.6443 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:48:07.4039 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:07.5872 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:07.6163 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:48:07.6454 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:17.6830 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:17.6900 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:48:17.6900 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:17.7090 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:48:18.0711 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:18.0711 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:48:41.7586 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:41.7586 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:48:41.7747 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:41.7747 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:48:43.3053 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:43.5460 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:43.5626 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:48:43.5852 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:49.3678 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:49.3678 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:48:49.3854 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:49.3854 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:48:49.6602 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:48:49.6602 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:49:13.9278 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:13.9278 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:49:13.9644 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:13.9784 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =61
+2017-11-02 02:49:16.2817 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:16.4142 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:16.4312 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:49:16.4508 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:28.8880 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:28.8935 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:49:28.9090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:28.9090 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:49:29.3185 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:29.3185 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:49:51.7999 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:51.8220 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:49:51.8691 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:51.8781 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:49:53.5537 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:53.7317 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:49:53.7488 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:49:53.7769 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:00.7698 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:00.7698 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:50:00.7938 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:00.7938 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:50:07.2508 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:07.2560 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:50:07.2680 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:07.2680 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =56
+2017-11-02 02:50:13.4578 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:13.4578 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:13.4784 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:13.5035 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:23.5358 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:23.5512 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:23.6043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:23.6234 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:23.6620 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:23.6781 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:25.4836 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:25.4896 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =57
+2017-11-02 02:50:25.5026 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:25.6833 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:31.1395 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:31.1450 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:50:31.1694 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:31.1694 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:50:39.2502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:39.2552 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:39.2692 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:39.2692 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:41.6336 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:41.6486 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:41.7113 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:41.7113 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:41.7415 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:41.7415 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:43.1466 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:43.1970 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =58
+2017-11-02 02:50:43.2303 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:43.3654 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:49.0849 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:49.0849 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:50:49.1167 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:49.1167 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:50:53.7864 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:53.7864 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:50:53.8014 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:50:53.8014 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:51:00.8713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:00.8713 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:51:00.8979 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:00.8979 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:51:00.9149 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:00.9149 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:51:03.3620 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:03.3620 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =62
+2017-11-02 02:51:03.3797 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:03.5609 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:09.8017 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:09.8017 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:51:09.8257 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:09.8257 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:51:14.3457 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:14.3507 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =63
+2017-11-02 02:51:14.3642 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:14.3642 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =63
+2017-11-02 02:51:26.0653 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:26.0653 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:26.0873 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:26.0873 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:30.5503 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:30.5503 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:30.5779 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:30.5829 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:30.5965 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:30.5965 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:36.3376 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:36.3376 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =59
+2017-11-02 02:51:36.3595 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:36.5423 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:41.1733 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:41.1784 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:51:41.2039 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:41.2090 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:51:41.5646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:41.5737 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:51:55.7752 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:55.7752 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 02:51:55.7942 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:55.7992 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =63
+2017-11-02 02:51:57.3138 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:57.4856 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:51:57.4976 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 02:51:57.5237 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:03.5955 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:03.6004 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:52:03.6316 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:03.6316 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:52:09.3132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:09.3183 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:09.3834 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:09.4004 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:12.3350 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:12.3350 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:12.3536 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:12.3536 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:12.3740 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:12.3785 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:13.6020 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:13.6020 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =60
+2017-11-02 02:52:13.6350 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:13.8070 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:19.5337 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:19.5337 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 02:52:19.5648 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:19.5648 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 02:52:45.8895 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:45.8956 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =64
+2017-11-02 02:52:45.9136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 02:52:45.9136 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =64
+2017-11-02 03:07:01.4152 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:07:01.5626 INFO Initialising Components...
+2017-11-02 03:07:04.6071 INFO Checking Database Connection...
+2017-11-02 03:07:04.6663 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:07.8739 INFO Finishing Initialisation...
+2017-11-02 03:07:07.8960 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:07.9160 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:07:12.0834 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:12.0834 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:07:12.0975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:12.0975 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:07:12.0975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:12.1145 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:07:16.2114 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:16.2114 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:07:16.2265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:16.2265 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:07:16.6132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:07:16.6132 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:11:00.8143 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:11:00.9637 INFO Initialising Components...
+2017-11-02 03:11:04.0306 INFO Checking Database Connection...
+2017-11-02 03:11:04.0822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:07.2356 INFO Finishing Initialisation...
+2017-11-02 03:11:07.2477 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:07.2597 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:11:12.9953 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:12.9953 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:11:13.0085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:13.0085 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:11:13.0205 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:13.0205 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:11:17.9191 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:17.9191 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:11:17.9332 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:17.9332 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:11:18.2909 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:11:47.2759 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:18:06.7407 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:18:06.8971 INFO Initialising Components...
+2017-11-02 03:18:09.9614 INFO Checking Database Connection...
+2017-11-02 03:18:10.0076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:13.1654 INFO Finishing Initialisation...
+2017-11-02 03:18:13.1845 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:13.2106 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:18:21.5234 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:21.5234 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:18:21.5374 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:21.5374 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:18:21.5495 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:21.5495 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:18:26.6988 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:26.7054 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:18:26.7054 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:26.7224 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:18:27.0513 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:18:32.4036 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:20:03.7604 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:20:03.9023 INFO Initialising Components...
+2017-11-02 03:20:06.9403 INFO Checking Database Connection...
+2017-11-02 03:20:06.9835 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:10.0912 INFO Finishing Initialisation...
+2017-11-02 03:20:10.1092 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:10.1323 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:20:14.6422 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:14.6482 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:20:14.6482 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:14.6618 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:20:14.6618 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:14.6618 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:20:19.0372 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:19.0372 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:20:19.0543 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:19.0543 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:20:19.4727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:20:19.4727 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:21:13.2577 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:21:13.3985 INFO Initialising Components...
+2017-11-02 03:21:16.4514 INFO Checking Database Connection...
+2017-11-02 03:21:16.4964 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:19.6184 INFO Finishing Initialisation...
+2017-11-02 03:21:19.6345 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:19.6530 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:21:36.4908 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:36.4908 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:21:36.5078 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:36.5078 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:21:36.5233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:36.5233 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:21:40.2152 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:40.2213 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:21:40.2368 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:40.2368 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:21:40.6014 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:21:40.6014 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:22:10.9519 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:10.9590 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 03:22:10.9590 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:10.9730 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:22:24.4513 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:24.6113 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:24.6678 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:22:24.6818 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:38.8585 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:38.8635 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:22:38.8815 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:38.8815 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:22:43.0103 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:43.0103 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 03:22:43.0279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:43.0279 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 03:22:49.8085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:49.8085 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =0
+2017-11-02 03:22:49.8266 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:22:49.8316 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =0
+2017-11-02 03:23:04.4329 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:04.4329 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:04.4487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:04.4487 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:17.5507 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:17.5657 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:17.5657 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:17.5657 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:17.5884 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:17.5884 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:22.0988 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:22.0988 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 03:23:22.1164 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:23:22.2644 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:38.4131 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:52:38.6468 INFO Initialising Components...
+2017-11-02 03:52:41.6997 INFO Checking Database Connection...
+2017-11-02 03:52:41.8003 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:44.9550 INFO Finishing Initialisation...
+2017-11-02 03:52:44.9805 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:45.0006 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:52:47.8759 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:47.8829 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:52:47.8829 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:47.8965 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:52:47.8965 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:47.8965 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:52:52.4953 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:52.4953 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:52:52.5099 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:52.5099 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:52:52.8233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:52:52.8233 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:55:31.1506 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:55:31.4153 INFO Initialising Components...
+2017-11-02 03:55:34.5209 INFO Checking Database Connection...
+2017-11-02 03:55:34.6922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:37.8652 INFO Finishing Initialisation...
+2017-11-02 03:55:37.8833 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:37.9013 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:55:42.0502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:42.1122 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:55:42.1343 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:42.1503 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:55:42.1663 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:42.1784 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:55:46.1400 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:46.2350 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:55:46.2731 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:46.2871 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:55:46.6319 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:55:51.0175 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 03:58:45.1433 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 03:58:45.3023 INFO Initialising Components...
+2017-11-02 03:58:48.3897 INFO Checking Database Connection...
+2017-11-02 03:58:48.4375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:58:51.5700 INFO Finishing Initialisation...
+2017-11-02 03:58:51.5841 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:58:51.5961 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:59:04.1381 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:04.2742 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 03:59:04.3008 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:04.3160 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 03:59:04.3380 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:04.3591 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:59:07.9514 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:07.9914 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 03:59:08.0136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:08.0230 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 03:59:08.3143 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 03:59:12.3549 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:00:14.8806 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:00:15.0530 INFO Initialising Components...
+2017-11-02 04:00:18.0931 INFO Checking Database Connection...
+2017-11-02 04:00:18.2448 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:21.4024 INFO Finishing Initialisation...
+2017-11-02 04:00:21.4254 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:21.4525 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:00:25.1540 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:25.1596 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:00:25.1596 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:25.1596 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:00:25.1796 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:25.1796 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:00:29.4634 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:29.5392 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:00:29.5612 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:29.5702 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:00:29.9680 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:29.9741 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:00:59.4010 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:59.5768 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:00:59.6099 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:00:59.6270 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:01:00.0424 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:01:00.0424 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:11:50.7721 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:11:50.9666 INFO Initialising Components...
+2017-11-02 04:11:54.0363 INFO Checking Database Connection...
+2017-11-02 04:11:54.1805 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:11:57.3053 INFO Finishing Initialisation...
+2017-11-02 04:11:57.3235 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:11:57.3445 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:12:01.5387 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:01.6225 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:12:01.6476 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:01.6616 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:12:01.6827 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:01.6977 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:12:05.5062 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:05.5518 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:12:05.5759 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:05.5844 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:12:05.9397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:12:05.9467 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:29:52.2342 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:29:52.5059 INFO Initialising Components...
+2017-11-02 04:29:55.5766 INFO Checking Database Connection...
+2017-11-02 04:29:55.6387 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:29:58.7717 INFO Finishing Initialisation...
+2017-11-02 04:29:58.7877 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:29:58.8068 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:30:30.9144 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:30.9144 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:30:30.9281 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:30.9281 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:30:30.9402 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:30.9402 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:30:35.7490 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:35.7550 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:30:35.7550 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:35.7710 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:30:36.1347 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:30:36.1347 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:31:49.7810 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:31:49.9469 INFO Initialising Components...
+2017-11-02 04:31:53.0144 INFO Checking Database Connection...
+2017-11-02 04:31:53.0480 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:31:56.1662 INFO Finishing Initialisation...
+2017-11-02 04:31:56.1922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:31:56.2133 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:32:07.7135 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:07.7135 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:32:07.7275 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:07.7275 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:32:07.7425 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:07.7425 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:32:12.3476 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:12.3476 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:32:12.3639 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:12.3639 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:32:12.7258 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:32:12.7258 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:33:06.9446 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:33:07.0680 INFO Initialising Components...
+2017-11-02 04:33:10.1000 INFO Checking Database Connection...
+2017-11-02 04:33:10.1342 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:13.3446 INFO Finishing Initialisation...
+2017-11-02 04:33:13.3627 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:13.3814 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:33:22.3618 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:22.3618 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:33:22.3618 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:22.3779 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:33:22.3779 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:22.3779 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:33:25.9577 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:25.9577 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:33:25.9737 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:25.9737 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:33:26.2890 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:26.2890 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:33:50.2573 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:50.2573 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 04:33:50.2844 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:50.2844 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 04:33:51.7078 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:51.9307 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:33:51.9948 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:33:52.0089 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:34:19.1469 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:34:19.2701 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:34:19.3177 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:34:19.3318 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:34:19.7570 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:34:19.7570 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:38:51.9623 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:38:52.1067 INFO Initialising Components...
+2017-11-02 04:38:55.1760 INFO Checking Database Connection...
+2017-11-02 04:38:55.2292 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:38:58.4083 INFO Finishing Initialisation...
+2017-11-02 04:38:58.4334 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:38:58.4544 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:39:01.1949 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:01.1949 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:39:01.2090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:01.2090 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:39:01.2090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:01.2258 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:39:07.0095 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:07.0095 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:39:07.0246 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:07.0246 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:39:07.3903 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:07.3963 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:39:40.5647 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:40.5838 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 04:39:40.6138 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:40.6329 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:39:45.7859 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:45.9658 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:39:45.9958 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:39:46.0129 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:01.2706 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:01.4016 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:40:01.4515 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:01.4615 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:40:18.1375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:18.1375 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:18.1566 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:18.1616 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:37.8613 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:38.0022 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:38.0378 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:38.0539 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:38.0719 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:38.0879 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:42.2017 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:42.2097 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 04:40:42.2097 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:40:42.3731 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:41:44.5843 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:41:44.5843 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:41:44.6094 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:41:44.6144 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:41:44.9544 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:41:44.9644 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:50:48.3077 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:50:48.4531 INFO Initialising Components...
+2017-11-02 04:50:51.5063 INFO Checking Database Connection...
+2017-11-02 04:50:51.6767 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:50:54.8623 INFO Finishing Initialisation...
+2017-11-02 04:50:54.8803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:50:54.9044 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:51:03.3778 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:03.3778 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:51:03.3778 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:03.3965 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:51:03.3965 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:03.4092 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:51:07.8796 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:07.9653 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:51:08.0175 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:08.0325 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:51:08.3660 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:08.3660 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:51:36.9803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:37.1323 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 04:51:37.1639 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:51:37.1783 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 04:55:08.7989 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 04:55:08.9564 INFO Initialising Components...
+2017-11-02 04:55:12.0278 INFO Checking Database Connection...
+2017-11-02 04:55:12.0859 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:15.2141 INFO Finishing Initialisation...
+2017-11-02 04:55:15.2311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:15.2502 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:55:33.8655 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:33.8655 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 04:55:33.8835 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:33.8835 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 04:55:33.8960 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:33.8960 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:55:41.1975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:41.2883 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 04:55:41.3264 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:41.3435 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 04:55:41.7190 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:55:41.7261 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:56:06.3367 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:56:06.3367 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 04:56:06.3534 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:56:06.3534 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 04:56:57.7542 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:56:58.8613 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 04:56:58.8703 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 04:57:01.2502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:00:51.5681 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:00:51.8063 INFO Initialising Components...
+2017-11-02 05:00:54.8822 INFO Checking Database Connection...
+2017-11-02 05:00:54.9380 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:00:58.0353 INFO Finishing Initialisation...
+2017-11-02 05:00:58.0579 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:00:58.0790 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:01:02.1132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:02.1132 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:01:02.1303 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:02.1303 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:01:02.1303 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:02.1478 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:01:06.8727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:06.8773 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:01:06.8943 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:06.8943 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:01:07.2251 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:07.2251 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:01:33.9749 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:33.9749 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 05:01:33.9912 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:01:33.9912 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =4
+2017-11-02 05:01:59.7092 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:02:00.6715 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:02:00.6785 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:02:02.3944 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:08:53.3990 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:08:53.5780 INFO Initialising Components...
+2017-11-02 05:08:56.6420 INFO Checking Database Connection...
+2017-11-02 05:08:56.6895 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:08:59.8244 INFO Finishing Initialisation...
+2017-11-02 05:08:59.8434 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:08:59.8650 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:09:11.7298 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:11.7298 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:09:11.7432 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:11.7432 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:09:11.7552 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:11.7552 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:09:15.5977 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:15.5977 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:09:15.6127 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:15.6127 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:09:15.9433 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:15.9433 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:09:45.6402 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:45.6477 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 05:09:45.6477 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:09:45.6615 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =5
+2017-11-02 05:10:23.8459 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:10:24.6866 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:10:24.6906 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:10:26.3242 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:33.0883 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:11:33.2433 INFO Initialising Components...
+2017-11-02 05:11:36.2720 INFO Checking Database Connection...
+2017-11-02 05:11:36.3016 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:39.4176 INFO Finishing Initialisation...
+2017-11-02 05:11:39.4446 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:39.4677 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:11:47.6735 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:47.6801 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:11:47.6801 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:47.6931 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:11:47.6931 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:47.7062 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:11:52.7511 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:52.7557 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:11:52.7557 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:52.7693 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:11:53.1551 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:11:53.1596 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:12:55.0378 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:12:55.1742 INFO Initialising Components...
+2017-11-02 05:12:58.2066 INFO Checking Database Connection...
+2017-11-02 05:12:58.2575 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:13:01.4195 INFO Finishing Initialisation...
+2017-11-02 05:13:01.4376 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:13:01.4581 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:14:02.1295 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:02.1295 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:14:02.1455 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:02.1455 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:14:02.1455 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:02.1626 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:14:06.0999 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:06.0999 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:14:06.1169 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:06.1169 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:14:06.4732 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:06.4732 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:14:25.4920 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:25.5076 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 05:14:25.5327 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:25.5477 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:14:30.6102 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:30.7756 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:30.7946 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:14:30.8157 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:57.5215 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:57.5215 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:14:57.5466 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:14:57.5506 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:15:02.0970 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:02.0970 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:15:02.1165 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:02.1165 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:15:40.4592 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:15:40.5952 INFO Initialising Components...
+2017-11-02 05:15:43.6296 INFO Checking Database Connection...
+2017-11-02 05:15:43.6786 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:46.8003 INFO Finishing Initialisation...
+2017-11-02 05:15:46.8178 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:46.8439 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:15:51.0420 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:51.0420 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:15:51.0551 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:51.0551 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:15:51.0673 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:51.0673 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:15:56.0590 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:56.0590 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:15:56.0801 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:15:56.0851 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:16:02.0420 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:02.0420 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:02.0646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:02.0701 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:04.0658 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:04.0804 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:04.1059 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:04.1249 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:04.1580 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:04.1686 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:05.3362 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:05.3362 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2017-11-02 05:16:05.3493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:16:05.4727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:42.6643 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 05:17:42.8233 INFO Initialising Components...
+2017-11-02 05:17:45.8549 INFO Checking Database Connection...
+2017-11-02 05:17:45.9046 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:49.0587 INFO Finishing Initialisation...
+2017-11-02 05:17:49.0773 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:49.1023 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:17:54.7774 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:54.7774 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 05:17:54.7912 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:54.7912 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 05:17:54.8033 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:17:54.8033 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:18:05.9539 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:05.9589 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:18:05.9589 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:05.9729 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:18:06.3782 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:06.3782 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:18:28.7436 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:28.7436 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 05:18:28.7586 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:28.7586 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:29.8974 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:30.0606 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:30.0999 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:18:30.1250 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:34.6733 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:34.6805 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:18:34.7013 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:34.7063 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:18:38.4493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:38.4493 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:38.4725 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:38.4725 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:45.3086 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:45.3086 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:45.3260 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:45.3310 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:45.3310 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:45.3310 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:46.8173 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:46.8173 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =2
+2017-11-02 05:18:46.8364 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:46.9730 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:54.0442 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:54.0502 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:18:54.0502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:54.0703 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:18:54.3443 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:18:54.3573 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:19:22.6063 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:22.6223 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2017-11-02 05:19:22.6529 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:22.6694 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:24.2476 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:24.4837 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:24.5127 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 05:19:24.5378 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:28.8840 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:28.8840 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 05:19:28.9132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:28.9132 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 05:19:31.9759 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:31.9759 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:31.9935 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:31.9935 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:38.7807 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:38.7863 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:38.7863 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:38.8033 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:38.8154 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:38.8154 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:39.7921 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:39.7921 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =3
+2017-11-02 05:19:39.8081 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 05:19:39.9582 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:22:49.9387 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 08:22:51.0550 INFO Initialising Components...
+2017-11-02 08:22:54.1915 INFO Checking Database Connection...
+2017-11-02 08:22:54.8045 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:22:59.7339 INFO Finishing Initialisation...
+2017-11-02 08:23:00.0790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:00.2289 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:23:06.7306 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:06.8295 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 08:23:06.8744 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:06.8841 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 08:23:06.8986 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:06.8986 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:23:14.2360 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:14.2410 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 08:23:14.2803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:14.2848 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:23:17.1245 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:23:17.1305 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 08:37:00.8590 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 08:37:01.4215 INFO Initialising Components...
+2017-11-02 08:37:04.7489 INFO Checking Database Connection...
+2017-11-02 08:37:05.0127 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:37:08.4089 INFO Finishing Initialisation...
+2017-11-02 08:37:08.4315 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:37:08.4926 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:38:29.5881 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:38:46.7723 INFO Query: SELECT Count(*) AS RecordCount FROM Weighment 
+2017-11-02 08:46:10.2566 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 08:46:10.3729 INFO Initialising Components...
+2017-11-02 08:46:13.4268 INFO Checking Database Connection...
+2017-11-02 08:46:13.4665 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:46:16.5517 INFO Finishing Initialisation...
+2017-11-02 08:46:16.5727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:46:16.5868 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:46:34.0834 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:46:37.1616 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 08:49:33.3738 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 08:49:33.5292 INFO Initialising Components...
+2017-11-02 08:49:36.6072 INFO Checking Database Connection...
+2017-11-02 08:49:36.6293 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:49:39.7008 INFO Finishing Initialisation...
+2017-11-02 08:49:39.7118 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:49:39.7309 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:51:06.0844 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:51:08.5925 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 08:55:31.6455 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 08:55:31.7909 INFO Initialising Components...
+2017-11-02 08:55:34.8730 INFO Checking Database Connection...
+2017-11-02 08:55:34.8890 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:55:37.9587 INFO Finishing Initialisation...
+2017-11-02 08:55:37.9587 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:55:37.9723 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 08:55:52.6980 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 08:55:53.5532 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:01:27.5121 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:01:27.6595 INFO Initialising Components...
+2017-11-02 09:01:30.7315 INFO Checking Database Connection...
+2017-11-02 09:01:30.7494 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:33.8153 INFO Finishing Initialisation...
+2017-11-02 09:01:33.8153 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:33.8153 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:01:33.8885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:33.8930 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:01:46.0471 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:46.0550 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 09:01:46.0909 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:46.0909 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 09:01:46.1054 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:01:46.1125 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:02:06.0205 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:02:06.1754 INFO Initialising Components...
+2017-11-02 09:02:09.2262 INFO Checking Database Connection...
+2017-11-02 09:02:09.2443 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:12.3072 INFO Finishing Initialisation...
+2017-11-02 09:02:12.3152 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:12.3152 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:02:12.3924 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:12.3969 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:02:17.2022 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:17.2082 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 09:02:17.2082 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:17.2243 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 09:02:17.2243 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:17.2243 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:02:32.5913 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:32.5978 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 09:02:32.6576 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:32.6619 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:02:36.3026 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:36.3026 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 09:02:46.8100 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:46.8150 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 09:02:46.8150 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:46.8150 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:02:52.8609 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:02:52.8664 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 09:03:16.0182 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:03:16.0182 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 09:03:16.0343 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:03:16.0343 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:03:40.5019 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:03:40.5069 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:05:39.2858 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:05:43.6973 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:05:43.6973 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:05:59.0635 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:11:12.7310 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:11:12.8975 INFO Initialising Components...
+2017-11-02 09:11:15.9623 INFO Checking Database Connection...
+2017-11-02 09:11:16.0000 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:11:19.1189 INFO Finishing Initialisation...
+2017-11-02 09:11:19.1189 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:11:19.1343 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:11:19.1877 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:11:19.2034 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:13:28.8307 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:13:28.9621 INFO Initialising Components...
+2017-11-02 09:13:32.0077 INFO Checking Database Connection...
+2017-11-02 09:13:32.0077 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:13:35.0943 INFO Finishing Initialisation...
+2017-11-02 09:13:35.1140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:13:35.1140 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:13:35.1790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:13:35.1790 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:21:34.6034 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:21:34.8260 INFO Initialising Components...
+2017-11-02 09:21:37.8743 INFO Checking Database Connection...
+2017-11-02 09:21:37.9076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:21:40.9960 INFO Finishing Initialisation...
+2017-11-02 09:21:41.0115 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:21:41.0271 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:21:41.0956 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:21:41.0956 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:25:08.7803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:08.7960 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 09:25:08.7960 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:08.8116 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 09:25:08.8116 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:08.8116 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:25:11.5827 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:11.5827 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:25:53.2096 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:53.2096 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 09:25:53.2253 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:53.2253 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:25:59.4773 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:25:59.4773 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2017-11-02 09:26:34.0668 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:26:34.0668 INFO Query: SELECT prod.Id, prod.Code, prod.Name, prod.Status, prod.Price FROM Product as prod  ORDER BY prod.Name
+2017-11-02 09:30:52.3571 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:30:52.5230 INFO Initialising Components...
+2017-11-02 09:30:55.5476 INFO Checking Database Connection...
+2017-11-02 09:30:55.5786 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:30:58.7666 INFO Finishing Initialisation...
+2017-11-02 09:30:58.7822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:30:58.8134 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:30:58.8977 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:30:58.9133 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:31:13.2857 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:31:13.4251 INFO Initialising Components...
+2017-11-02 09:31:16.4641 INFO Checking Database Connection...
+2017-11-02 09:31:16.5120 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:19.6461 INFO Finishing Initialisation...
+2017-11-02 09:31:19.6461 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:19.6647 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:31:19.7307 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:19.7307 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:31:36.1664 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:31:36.3128 INFO Initialising Components...
+2017-11-02 09:31:39.3409 INFO Checking Database Connection...
+2017-11-02 09:31:39.3564 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:42.4613 INFO Finishing Initialisation...
+2017-11-02 09:31:42.4769 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:42.4769 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:31:42.5923 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:31:42.5923 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:32:45.3676 INFO Database file location: E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-11-02 09:32:45.4999 INFO Initialising Components...
+2017-11-02 09:32:48.5431 INFO Checking Database Connection...
+2017-11-02 09:32:48.5900 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:32:51.7623 INFO Finishing Initialisation...
+2017-11-02 09:32:51.7777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:32:51.7934 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:32:51.9314 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:32:51.9314 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2017-11-02 09:33:12.7241 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:12.7241 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2017-11-02 09:33:12.7241 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:12.7442 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2017-11-02 09:33:12.7442 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:12.7442 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:33:31.1103 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:31.1103 INFO Query: SELECT * FROM Product ORDER BY Name
+2017-11-02 09:33:31.1260 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:31.1260 INFO Query: SELECT * FROM SystemSetting
+2017-11-02 09:33:32.5807 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-11-02 09:33:32.5807 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 

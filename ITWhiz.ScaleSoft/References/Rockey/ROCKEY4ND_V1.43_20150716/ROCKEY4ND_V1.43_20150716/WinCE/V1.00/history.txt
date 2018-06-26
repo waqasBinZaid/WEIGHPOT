@@ -1,0 +1,5 @@
+		Rockey4ND SDK for WinCE update history
+		
+Current Version is V1.0.00
+V1.0.00------------------------------
+1.First Release

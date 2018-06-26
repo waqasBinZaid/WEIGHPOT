@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{178574A1-88EE-4CB9-89DC-0320C207951D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITWhiz.ScaleSoft.Desktop</RootNamespace>
+    <AssemblyName>ITWhiz.ScaleSoft.Desktop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+    <DontImportPostSharp>True</DontImportPostSharp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1449190526_Order_tracking.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>jhan.zaib-codsiging.cer</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.1.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.1\lib\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MailKit, Version=1.16.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b, processorArchitecture=MSIL">
+      <HintPath>..\packages\MailKit.1.16.1\lib\net451\MailKit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MimeKit, Version=1.16.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL">
+      <HintPath>..\packages\MimeKit.1.16.1\lib\net451\MimeKit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.3.1\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PostSharp, Version=4.2.25.0, Culture=neutral, PublicKeyToken=b13fd38b8f9c99d7, processorArchitecture=MSIL">
+      <HintPath>..\packages\PostSharp.4.2.25\lib\net35-client\PostSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net45\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Core.2.0.0\lib\net45\Zen.Barcode.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AuthorizeAttribute.cs" />
+    <Compile Include="Controls\iTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ListViewItemComparer.cs" />
+    <Compile Include="DailyReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyReportViewer.Designer.cs">
+      <DependentUpon>DailyReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsProductsListing.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsProductsListing.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsWeighment.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsWeighment.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsWeighmentListing.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsWeighmentListing.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategory.cs" />
+    <Compile Include="FrmCategory.Designer.cs">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmThirdWeighmentEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmThirdWeighmentEntry.designer.cs">
+      <DependentUpon>FrmThirdWeighmentEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmComWeighmentEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmComWeighmentEntry.designer.cs">
+      <DependentUpon>FrmComWeighmentEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOption.Designer.cs">
+      <DependentUpon>FrmOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportParameter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportParameter.Designer.cs">
+      <DependentUpon>FrmReportParameter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategoryEntry.cs" />
+    <Compile Include="FrmCategoryEntry.Designer.cs">
+      <DependentUpon>FrmCategoryEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconfiguration.Designer.cs">
+      <DependentUpon>FrmConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParties.Designer.cs">
+      <DependentUpon>FrmParties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPartyEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPartyEntry.Designer.cs">
+      <DependentUpon>FrmPartyEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductEntry.Designer.cs">
+      <DependentUpon>FrmProductEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProducts.Designer.cs">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportViewer.Designer.cs">
+      <DependentUpon>FrmReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecurityRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecurityRole.Designer.cs">
+      <DependentUpon>FrmSecurityRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecurityRoleEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecurityRoleEntry.Designer.cs">
+      <DependentUpon>FrmSecurityRoleEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetup.Designer.cs">
+      <DependentUpon>FrmSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSpalsh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSpalsh.Designer.cs">
+      <DependentUpon>FrmSpalsh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSpecialUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSpecialUser.Designer.cs">
+      <DependentUpon>FrmSpecialUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSystemSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSystemSettings.Designer.cs">
+      <DependentUpon>FrmSystemSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateComWeighmentEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateComWeighmentEntry.designer.cs">
+      <DependentUpon>FrmUpdateComWeighmentEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateWeighmentEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateWeighmentEntry.Designer.cs">
+      <DependentUpon>FrmUpdateWeighmentEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUserEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUserEntry.Designer.cs">
+      <DependentUpon>FrmUserEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsers.Designer.cs">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighbridge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighbridge.Designer.cs">
+      <DependentUpon>FrmWeighbridge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighmentDateWiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighmentDateWiseReport.Designer.cs">
+      <DependentUpon>FrmWeighmentDateWiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighmentEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighmentEntry.Designer.cs">
+      <DependentUpon>FrmWeighmentEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighments.Designer.cs">
+      <DependentUpon>FrmWeighments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighmentSerialWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighmentSerialWise.Designer.cs">
+      <DependentUpon>FrmWeighmentSerialWise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWeighmentUserWiseReport .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWeighmentUserWiseReport .designer.cs">
+      <DependentUpon>FrmWeighmentUserWiseReport .cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalsHelper.cs" />
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NewWeightManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewWeightManual.designer.cs">
+      <DependentUpon>NewWeightManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetupForm.Designer.cs">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </Compile>
+    <Content Include="Resources\Close.png" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyReportViewer.resx">
+      <DependentUpon>DailyReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategory.resx">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmThirdWeighmentEntry.resx">
+      <DependentUpon>FrmThirdWeighmentEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmComWeighmentEntry.resx">
+      <DependentUpon>FrmComWeighmentEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOption.resx">
+      <DependentUpon>FrmOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportParameter.resx">
+      <DependentUpon>FrmReportParameter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategoryEntry.resx">
+      <DependentUpon>FrmCategoryEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfiguration.resx">
+      <DependentUpon>FrmConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmParties.resx">
+      <DependentUpon>FrmParties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPartyEntry.resx">
+      <DependentUpon>FrmPartyEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductEntry.resx">
+      <DependentUpon>FrmProductEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProducts.resx">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportViewer.resx">
+      <DependentUpon>FrmReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecurityRole.resx">
+      <DependentUpon>FrmSecurityRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecurityRoleEntry.resx">
+      <DependentUpon>FrmSecurityRoleEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetup.resx">
+      <DependentUpon>FrmSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSpalsh.resx">
+      <DependentUpon>FrmSpalsh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSpecialUser.resx">
+      <DependentUpon>FrmSpecialUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSystemSettings.resx">
+      <DependentUpon>FrmSystemSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateComWeighmentEntry.resx">
+      <DependentUpon>FrmUpdateComWeighmentEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateWeighmentEntry.resx">
+      <DependentUpon>FrmUpdateWeighmentEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUserEntry.resx">
+      <DependentUpon>FrmUserEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsers.resx">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighbridge.resx">
+      <DependentUpon>FrmWeighbridge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighmentDateWiseReport.resx">
+      <DependentUpon>FrmWeighmentDateWiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighmentEntry.resx">
+      <DependentUpon>FrmWeighmentEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighments.resx">
+      <DependentUpon>FrmWeighments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighmentSerialWise.resx">
+      <DependentUpon>FrmWeighmentSerialWise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWeighmentUserWiseReport .resx">
+      <DependentUpon>FrmWeighmentUserWiseReport .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewWeightManual.resx">
+      <DependentUpon>NewWeightManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CWeighmentDateWise.rdlc" />
+    <EmbeddedResource Include="Reports\CWeighmentSerialWiseSlip.rdlc" />
+    <EmbeddedResource Include="Reports\CWeighmentSlip.rdlc" />
+    <EmbeddedResource Include="Reports\CWeighmentUserWise.rdlc" />
+    <EmbeddedResource Include="Reports\WeighmentDateWise.rdlc" />
+    <EmbeddedResource Include="Reports\WeighmentSerialWiseSlip.rdlc" />
+    <EmbeddedResource Include="Reports\WeighmentSlip.rdlc" />
+    <EmbeddedResource Include="Resources\Clients.rdlc" />
+    <EmbeddedResource Include="SetupForm.resx">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dsProductsListing.xsc">
+      <DependentUpon>dsProductsListing.xsd</DependentUpon>
+    </None>
+    <None Include="dsProductsListing.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>dsProductsListing.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsProductsListing.xss">
+      <DependentUpon>dsProductsListing.xsd</DependentUpon>
+    </None>
+    <None Include="dsWeighment.xsc">
+      <DependentUpon>dsWeighment.xsd</DependentUpon>
+    </None>
+    <None Include="dsWeighment.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsWeighment.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsWeighment.xss">
+      <DependentUpon>dsWeighment.xsd</DependentUpon>
+    </None>
+    <None Include="dsWeighmentListing.xsc">
+      <DependentUpon>dsWeighmentListing.xsd</DependentUpon>
+    </None>
+    <None Include="dsWeighmentListing.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsWeighmentListing.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsWeighmentListing.xss">
+      <DependentUpon>dsWeighmentListing.xsd</DependentUpon>
+    </None>
+    <None Include="jhan.zaib%40live.com-code-signing.pfx" />
+    <None Include="jhan.zaib-codsiging.cer" />
+    <None Include="LibraScales.pfx" />
+    <Content Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1449190526_Order_tracking.ico" />
+    <None Include="Resources\truck_weigh_platform_scale.jpg" />
+    <None Include="Resources\1452972623_f-shield_256.png" />
+    <EmbeddedResource Include="Resources\1438440898_2.png" />
+    <EmbeddedResource Include="Resources\1438446911_TruckYellow.png" />
+    <EmbeddedResource Include="Resources\1438447545_autoship.png" />
+    <EmbeddedResource Include="Resources\1438447704_1-08.png" />
+    <EmbeddedResource Include="Resources\1438447843_synced.png" />
+    <EmbeddedResource Include="Resources\1438447979_help-browser.png" />
+    <EmbeddedResource Include="Resources\1438448241_Information.png" />
+    <EmbeddedResource Include="Resources\1438448300_Exit.png" />
+    <EmbeddedResource Include="Resources\1447724089_inventory-maintenance.png" />
+    <EmbeddedResource Include="Resources\1447724227_customers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ITWhiz.ScaleSoft.BusinessOperations\ITWhiz.ScaleSoft.BusinessOperations.csproj">
+      <Project>{04f82fe3-909b-4c37-9037-484a455484e4}</Project>
+      <Name>ITWhiz.ScaleSoft.BusinessOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ITWhiz.ScaleSoft.Common\ITWhiz.ScaleSoft.Common.csproj">
+      <Project>{91863387-f135-4c9a-8dc4-c4f5978a515c}</Project>
+      <Name>ITWhiz.ScaleSoft.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ITWhiz.ScaleSoft.DataAccess\ITWhiz.ScaleSoft.DataAccess.csproj">
+      <Project>{ce6c9132-e552-4a58-9b05-ada61005664f}</Project>
+      <Name>ITWhiz.ScaleSoft.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <Import Project="..\packages\PostSharp.4.2.25\tools\PostSharp.targets" Condition="Exists('..\packages\PostSharp.4.2.25\tools\PostSharp.targets')" />
+  <Target Name="EnsurePostSharpImported" BeforeTargets="BeforeBuild" Condition="'$(PostSharp30Imported)' == ''">
+    <Error Condition="!Exists('..\packages\PostSharp.4.2.25\tools\PostSharp.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://www.postsharp.net/links/nuget-restore." />
+    <Error Condition="Exists('..\packages\PostSharp.4.2.25\tools\PostSharp.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://www.postsharp.net/links/nuget-restore." />
+  </Target>
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.108.0\build\net45\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

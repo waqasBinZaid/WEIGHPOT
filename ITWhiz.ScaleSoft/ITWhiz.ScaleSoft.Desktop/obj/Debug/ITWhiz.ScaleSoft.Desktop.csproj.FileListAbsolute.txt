@@ -1,0 +1,898 @@
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategory.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategoryEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.ITWhiz.ScaleSoft.Desktop.exe.config
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.ITWhiz.ScaleSoft.Desktop.exe.config
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategory.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategoryEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\Attique\For-Attiq\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategory.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmCategoryEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.ITWhiz.ScaleSoft.Desktop.exe.config
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWise.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.SetupForm.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWise.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.SetupForm.resources
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Software\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWiseReport.resources
+D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.DailyReportViewer.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.DailyReportViewer.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWiseReport.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.SetupForm.resources
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+E:\IBTS\Product\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.DailyReportViewer.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWiseReport.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.SetupForm.resources
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+D:\IBTS\InProgress\Itmad Floor Mills\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe.config
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csprojResolveAssemblyReference.cache
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.AboutBox.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.DailyReportViewer.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategory.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmOption.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportParameter.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmCategoryEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmConfiguration.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmLogin.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmMain.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmParties.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmPartyEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProductEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmProducts.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmReportViewer.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRole.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSecurityRoleEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSetup.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpalsh.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmSpecialUser.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmSystemSettings.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateWeighmentEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUserEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmUsers.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighbridge.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentDateWiseReport.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighmentEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmWeighments.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentSerialWise.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.Properties.Resources.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.SetupForm.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.csproj.GenerateResource.Cache
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.cache
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\RdlCompile.compiled
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.config
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.exe
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pdb
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\BouncyCastle.Crypto.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.EF6.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.Linq.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.BusinessOperations.pdb
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Common.pdb
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.DataAccess.pdb
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\EntityFramework.SqlServer.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MailKit.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\MimeKit.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\NLog.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\PostSharp.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\System.Data.SQLite.xml
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\ITWhiz.ScaleSoft.Desktop.pssym
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.exe.postsharp
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\bin\Debug\Zen.Barcode.Core.dll
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmComWeighmentEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.NewWeightManual.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmUpdateComWeighmentEntry.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\ITWhiz.ScaleSoft.Desktop.FrmWeighmentUserWiseReport.resources
+D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\obj\Debug\IWeigh.FrmThirdWeighmentEntry.resources

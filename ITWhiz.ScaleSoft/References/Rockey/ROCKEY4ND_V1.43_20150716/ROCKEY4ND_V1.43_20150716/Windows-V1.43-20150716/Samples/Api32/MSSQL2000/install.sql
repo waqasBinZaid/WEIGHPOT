@@ -1,0 +1,1 @@
+sp_addextendedproc 'xp_Rockey4ND','xp_Rockey4ND.dll'

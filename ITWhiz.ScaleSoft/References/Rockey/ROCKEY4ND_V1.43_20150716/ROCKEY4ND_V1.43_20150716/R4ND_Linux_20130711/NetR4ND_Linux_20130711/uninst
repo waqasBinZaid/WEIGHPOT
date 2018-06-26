@@ -1,0 +1,100 @@
+#!/bin/sh
+#Check whether the current user is root
+if test $(id -ur) != 0; then
+	echo
+	echo "You should logon as root user!"
+	echo
+	exit -1
+fi
+if [ -d /etc/rc.d/init.d ];then
+	initdir=/etc/rc.d/init.d
+else
+	initdir=/etc/init.d
+fi 
+if [ -d /etc/rc.d ]; then
+	rlvldir=/etc/rc.d
+else
+	rlvldir=/etc
+fi
+iname=ryserv
+if [ ! -f /usr/local/include/rynet/NrClient.h ]; then
+    if [ ! -f $rlvldir/rc2.d/S12ryserv ]; then
+		if [ ! -f $rlvldir/rc3.d/S12ryserv ]; then
+			if [ ! -f $rlvldir/rc4.d/S12ryserv ]; then
+				if [ ! -f $rlvldir/rc5.d/S12ryserv ]; then
+					if [ ! -f $initdir/$iname ];then
+						if [ ! -f /usr/sbin/ryserv ]; then
+							if [ ! -f /etc/rynet/CliCfg.ini ]; then
+								if [ ! -f /etc/rynet/SvrCfg.ini ]; then
+									if [ ! -f /usr/local/bin/rockey4nd-monitor ]; then   
+										echo
+										echo "The file that this program was about to uninstall !"
+										echo
+										exit -1
+									fi
+								fi
+							fi
+						fi
+					fi
+				fi
+			fi
+		fi
+	fi
+fi
+echo 
+echo Uninstalling NetRockey4ND SDK
+echo
+if [ -f $initdir/$iname ]; then
+	if [ -f /usr/sbin/ryserv ]; then
+		sh $initdir/$iname stop
+	fi 
+fi
+
+if [ -d $rlvldir/rc2.d ]; then
+	rm -f $rlvldir/rc2.d/S12ryserv
+	rm -f $rlvldir/rc2.d/K12ryserv
+fi
+if [ -d $rlvldir/rc3.d ]; then
+	rm -f $rlvldir/rc3.d/S12ryserv
+	rm -f $rlvldir/rc3.d/K12ryserv
+fi
+if [ -d $rlvldir/rc4.d ]; then
+	rm -f $rlvldir/rc4.d/S12ryserv
+	rm -f $rlvldir/rc4.d/K12ryserv
+fi
+if [ -d $rlvldir/rc5.d ]; then
+	rm -f $rlvldir/rc5.d/S12ryserv 
+	rm -f $rlvldir/rc5.d/K12ryserv 
+fi
+
+if [ -f $initdir/$iname ];then
+	rm -f $initdir/$iname 
+fi
+
+if [ -f /usr/sbin/ryserv ]; then
+	rm -f  /usr/sbin/ryserv
+fi
+
+if [ -f /etc/rynet/CliCfg.ini ]; then
+	rm -f /etc/rynet/CliCfg.ini
+fi
+
+if [ -f /usr/local/bin/rockey4nd-monitor ]; then
+	rm -f /usr/local/bin/rockey4nd-monitor
+fi
+
+if [ -f /etc/rynet/SvrCfg.ini ]; then
+	rm -f /etc/rynet/SvrCfg.ini
+fi
+if [ -f /etc/rynet/CliCfg.ini ]; then
+	rm -f /etc/rynet/CliCfg.ini
+fi
+
+if [ -f /usr/local/include/rynet/NrClient.h ]; then
+	rm -f  /usr/local/include/rynet/NrClient.h
+fi
+
+rm -f /usr/local/lib/libryserv.so
+rm -f /usr/local/lib/libNetRockey*
+
+echo uninstall netrockey success!

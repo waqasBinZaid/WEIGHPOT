@@ -1,0 +1,7 @@
+v1.43_20150716
+
+add libraries for Delphi XE6, XE7, XE8
+update class/control libraries for .NET Framework 4.0 x86
+update class libraries for .NET Framework 4.0 x64
+update NetR4ND class libraries for .NET Framework 4.0 x86 x64
+add x64 Java JNI library

@@ -1,0 +1,720 @@
+2018-03-12 10:03:50.6051 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:03:50.7055 INFO Initialising Components...
+2018-03-12 10:03:53.7390 INFO Checking Database Connection...
+2018-03-12 10:03:53.9237 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:03:57.5796 INFO Checking License...
+2018-03-12 10:03:57.5796 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:03:57.6267 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:03:57.7952 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:04:16.4694 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:16.4694 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:04:17.8232 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.8232 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:04:17.8918 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.8918 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:04:17.8918 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.8918 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:04:17.9233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.9233 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:04:17.9233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.9233 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:04:17.9233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.9390 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:04:17.9889 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:17.9889 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:04:20.0763 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:04:20.0763 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:21.7647 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:06:21.8901 INFO Initialising Components...
+2018-03-12 10:06:24.9139 INFO Checking Database Connection...
+2018-03-12 10:06:24.9951 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:28.1680 INFO Checking License...
+2018-03-12 10:06:28.1680 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:28.1837 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:28.3207 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:06:31.7649 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:31.7649 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:06:33.0193 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0193 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:06:33.0193 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0193 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:06:33.0193 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0193 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:33.0349 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0349 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:33.0349 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0349 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:33.0505 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0505 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:33.0662 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0662 INFO Query: SELECT * FROM Indicators 
+2018-03-12 10:06:33.0662 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0662 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:33.0818 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:33.0818 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:06:55.2204 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:06:55.2204 INFO Query: SELECT * From Indicators Where ID =1023
+2018-03-12 10:06:55.2204 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:02.3348 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:02.3348 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:07:06.4722 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:06.4722 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:07:06.5117 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:06.5117 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:07:07.0592 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:07.0592 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:07:29.8101 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:29.8631 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:07:29.8787 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:29.8787 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:07:31.8493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:07:31.8493 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:09:01.8834 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:09:01.9989 INFO Initialising Components...
+2018-03-12 10:09:05.0333 INFO Checking Database Connection...
+2018-03-12 10:09:05.0865 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:08.2074 INFO Checking License...
+2018-03-12 10:09:08.2228 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:08.2228 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:08.2697 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:09:15.9059 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:15.9059 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:09:17.0774 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.0774 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:09:17.0774 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.0774 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:09:17.0929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.0929 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:17.0929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.0929 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:17.0929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.0929 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:17.0929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.1085 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:17.1241 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:17.1241 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:20.9118 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:20.9118 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:09:20.9275 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:20.9275 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:09:21.5118 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:21.5118 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:09:50.3758 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:09:50.3758 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:48.3345 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:12:48.4488 INFO Initialising Components...
+2018-03-12 10:12:51.4655 INFO Checking Database Connection...
+2018-03-12 10:12:51.5032 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:54.5762 INFO Checking License...
+2018-03-12 10:12:54.5762 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:54.6391 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:54.7028 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:12:56.7412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:56.7412 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:12:58.0030 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0030 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:12:58.0030 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0030 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:12:58.0030 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0120 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:58.0120 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0120 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:58.0120 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0120 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:58.0306 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0306 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:12:58.0609 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:12:58.0609 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:13:04.0794 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:04.0794 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:13:04.0794 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:04.0794 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:13:04.3143 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:04.3143 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:13:40.4576 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:40.4576 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2018-03-12 10:13:40.4702 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:40.4702 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:13:42.8622 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:13:45.8209 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:45.8209 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:13:45.8259 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:46.1258 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:46.1258 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:13:46.1258 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:47.0037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:47.0037 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:13:47.0037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:47.0037 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:13:53.2928 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:53.2968 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:13:53.3148 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:13:53.3148 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:16:32.0107 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:16:32.1140 INFO Initialising Components...
+2018-03-12 10:16:35.1387 INFO Checking Database Connection...
+2018-03-12 10:16:35.1920 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:16:38.2878 INFO Checking License...
+2018-03-12 10:16:38.2878 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:16:38.2933 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:16:38.3246 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 10:16:49.6251 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:16:49.6251 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 10:17:02.3147 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:17:02.4350 INFO Initialising Components...
+2018-03-12 10:17:05.4601 INFO Checking Database Connection...
+2018-03-12 10:17:05.5127 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:08.5982 INFO Checking License...
+2018-03-12 10:17:08.5982 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:08.5982 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:08.7136 INFO Sucess: find rockey2 : 1
+2018-03-12 10:17:08.7136 INFO Sucess: open rockey2
+2018-03-12 10:17:08.7506 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 10:17:08.7506 INFO Valid license found + 2564932284
+2018-03-12 10:17:10.7676 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7676 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:17:10.7831 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7831 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:17:10.7831 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7831 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:10.7831 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7831 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:10.7987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7987 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:10.7987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.7987 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:10.8213 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.8213 INFO Query: SELECT * FROM Indicators 
+2018-03-12 10:17:10.8213 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.8213 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:10.8370 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:10.8370 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:17:56.5802 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:17:56.5802 INFO Query: SELECT * From Indicators Where ID =1023
+2018-03-12 10:17:56.5802 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:05.0238 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:05.0238 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:18:08.3488 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:08.3488 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:18:17.6767 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:17.6767 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:18:17.6767 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:17.6767 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:18:18.2309 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:18.2309 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:18:34.3329 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:18:34.3329 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:19:26.7400 INFO Finishing Initialisation...
+2018-03-12 10:20:53.9956 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:20:54.0955 INFO Initialising Components...
+2018-03-12 10:20:57.1285 INFO Checking Database Connection...
+2018-03-12 10:20:57.1818 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:00.2891 INFO Checking License...
+2018-03-12 10:21:00.2891 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:00.3047 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:00.4197 INFO Sucess: find rockey2 : 1
+2018-03-12 10:21:00.4197 INFO Sucess: open rockey2
+2018-03-12 10:21:00.4732 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 10:21:00.4732 INFO Valid license found + 2564932284
+2018-03-12 10:21:05.4885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.4885 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:21:05.4885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.4885 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:21:05.4885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.4885 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:05.5043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.5043 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:05.5043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.5043 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:05.5043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.5043 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:05.5512 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:05.5512 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:12.9279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:12.9279 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =1
+2018-03-12 10:21:12.9434 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:24.0040 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:24.0040 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:21:24.0040 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:24.0040 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:24.6688 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:24.6688 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:21:59.4594 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:59.4594 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:21:59.4594 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:59.4594 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:21:59.7753 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:21:59.7753 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:22:28.4646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:28.4646 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2018-03-12 10:22:28.4646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:28.4646 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =7
+2018-03-12 10:22:30.6054 INFO Sucess: find rockey2 : 1
+2018-03-12 10:22:30.6054 INFO Sucess: open rockey2
+2018-03-12 10:22:30.6526 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 10:22:30.6526 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:30.8214 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:30.8369 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:22:30.8369 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:30.9054 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:30.9054 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:22:30.9211 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:30.9211 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:22:35.7619 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:35.7619 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:22:35.7775 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:22:35.7775 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:24:30.8572 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:30.8572 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:24:30.8728 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:30.8728 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:24:35.7804 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:35.7804 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =5
+2018-03-12 10:24:35.7961 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:35.7961 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =5
+2018-03-12 10:24:42.3781 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:42.3781 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:24:42.3937 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:42.4093 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:24:58.1319 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:58.1319 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:24:58.1630 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:58.1630 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:24:58.1630 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:24:58.1630 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:25:04.0667 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:04.0667 INFO Query: SELECT *, pro.Name AS ProductName FROM Weighment as w INNER JOIN Product AS pro on pro.Id = w.ProductId Where w.TicketNumber =6
+2018-03-12 10:25:04.0667 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:04.2510 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:04.3508 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:04.3508 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:04.3508 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:04.3508 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:08.7889 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:08.8044 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:08.8265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:08.8265 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:26.9779 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:26.9935 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:25:26.9935 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:26.9935 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:27.5412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:27.5412 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:25:31.4051 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:31.4051 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:25:31.4207 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:31.4207 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:34.9942 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:34.9942 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:25:35.0098 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:35.0098 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:25:35.3259 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:35.3259 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 10:25:38.3579 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:38.3579 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 10:25:38.3746 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:25:38.3746 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:34.5236 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 10:39:34.6459 INFO Initialising Components...
+2018-03-12 10:39:37.6614 INFO Checking Database Connection...
+2018-03-12 10:39:37.7150 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:40.8065 INFO Checking License...
+2018-03-12 10:39:40.8095 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:40.8095 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:40.9099 INFO Sucess: find rockey2 : 1
+2018-03-12 10:39:40.9099 INFO Sucess: open rockey2
+2018-03-12 10:39:40.9655 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 10:39:40.9655 INFO Valid license found + 2564932284
+2018-03-12 10:39:42.6275 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6275 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 10:39:42.6275 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6275 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 10:39:42.6395 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6395 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:42.6395 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6395 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:42.6556 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6556 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:42.6556 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6556 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:42.6776 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6776 INFO Query: SELECT * FROM Indicators 
+2018-03-12 10:39:42.6887 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6887 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 10:39:42.6887 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 10:39:42.6887 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:21.4575 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 11:34:21.5574 INFO Initialising Components...
+2018-03-12 11:34:24.5703 INFO Checking Database Connection...
+2018-03-12 11:34:24.6029 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:27.7215 INFO Checking License...
+2018-03-12 11:34:27.7215 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:27.7215 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:27.8393 INFO Sucess: find rockey2 : 1
+2018-03-12 11:34:27.8393 INFO Sucess: open rockey2
+2018-03-12 11:34:27.8904 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 11:34:27.8904 INFO Valid license found + 2564932284
+2018-03-12 11:34:29.4755 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.4755 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 11:34:29.4913 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.4913 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 11:34:29.4913 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.4913 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:29.4913 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.4913 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:29.5069 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.5069 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:29.5069 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.5069 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:29.5225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.5225 INFO Query: SELECT * FROM Indicators 
+2018-03-12 11:34:29.5225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.5225 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:34:29.5225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:34:29.5225 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:35:17.0392 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:17.0392 INFO Query: SELECT * From Indicators Where ID =1023
+2018-03-12 11:35:17.0392 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:25.5282 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:25.5282 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:35:29.7701 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:29.7701 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:35:39.0984 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:39.0984 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 11:35:39.1140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:39.1140 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:35:43.2084 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:43.2084 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 11:35:48.8615 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:48.8615 INFO Query: SELECT prod.Id, prod.Code, prod.Name, prod.Status, prod.Price FROM Product as prod  ORDER BY prod.Name
+2018-03-12 11:35:59.6541 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:35:59.6698 INFO Query: SELECT * FROM Product WHERE Name ='Rice'  AND Id != 0 COLLATE NOCASE
+2018-03-12 11:35:59.6698 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:36:00.5016 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:36:00.5016 INFO Query: SELECT prod.Id, prod.Code, prod.Name, prod.Status, prod.Price FROM Product as prod  ORDER BY prod.Name
+2018-03-12 11:36:04.5904 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:36:04.5904 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 11:36:04.5904 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:36:04.5904 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:36:07.8702 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:36:07.8702 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 11:38:56.2961 INFO Finishing Initialisation...
+2018-03-12 11:39:07.0958 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 11:39:07.2144 INFO Initialising Components...
+2018-03-12 11:39:10.2348 INFO Checking Database Connection...
+2018-03-12 11:39:10.2502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:13.3405 INFO Checking License...
+2018-03-12 11:39:13.3405 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:13.3561 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:13.4751 INFO Sucess: find rockey2 : 1
+2018-03-12 11:39:13.4751 INFO Sucess: open rockey2
+2018-03-12 11:39:13.5252 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 11:39:13.5252 INFO Valid license found + 2564932284
+2018-03-12 11:39:18.4832 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.4832 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 11:39:18.4832 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.4832 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 11:39:18.4987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.4987 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:18.4987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.4987 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:18.4987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.4987 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:18.5153 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.5153 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:18.5364 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:18.5364 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:22.1276 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:22.1276 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-03-12 11:39:22.1276 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:22.1276 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 11:39:22.7748 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 11:39:22.7748 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-03-12 11:39:35.6250 INFO Finishing Initialisation...
+2018-03-12 12:23:13.3403 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 12:23:13.6015 INFO Initialising Components...
+2018-03-12 12:23:16.6207 INFO Checking Database Connection...
+2018-03-12 12:23:16.8319 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:23:20.1155 INFO Checking License...
+2018-03-12 12:23:20.1260 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:23:20.1589 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:23:20.3924 INFO Sucess: find rockey2 : 1
+2018-03-12 12:23:20.3924 INFO Sucess: open rockey2
+2018-03-12 12:23:20.4466 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 12:23:20.4496 INFO Valid license found + 2564932284
+2018-03-12 12:27:59.1281 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.1281 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 12:27:59.1909 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.1909 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 12:27:59.2039 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.2039 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:27:59.2285 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.2316 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:27:59.2316 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.2496 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:27:59.2496 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.2677 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:27:59.3194 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.3194 INFO Query: SELECT * FROM Indicators 
+2018-03-12 12:27:59.3273 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.3273 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:27:59.3273 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:27:59.3273 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 12:29:59.4634 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:29:59.4634 INFO Query: SELECT * From Indicators Where ID =1023
+2018-03-12 12:29:59.4715 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:30:07.3813 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 12:30:07.3813 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:03:59.7068 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:03:59.7253 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:44.9185 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:20:45.0439 INFO Initialising Components...
+2018-03-12 13:20:48.0605 INFO Checking Database Connection...
+2018-03-12 13:20:48.1868 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:51.6000 INFO Checking License...
+2018-03-12 13:20:51.6140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:51.6220 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:51.8936 INFO Sucess: find rockey2 : 1
+2018-03-12 13:20:51.8936 INFO Sucess: open rockey2
+2018-03-12 13:20:51.9498 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 13:20:51.9498 INFO Valid license found + 2564932284
+2018-03-12 13:20:53.9869 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:53.9869 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:20:53.9869 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:53.9869 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:20:53.9869 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:53.9969 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:53.9969 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:53.9969 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:53.9969 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:53.9969 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:54.0121 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:54.0121 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:54.0431 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:54.0441 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:20:57.7681 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:20:57.7681 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:42.1053 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:25:42.2106 INFO Initialising Components...
+2018-03-12 13:25:45.2288 INFO Checking Database Connection...
+2018-03-12 13:25:45.3026 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:48.5281 INFO Checking License...
+2018-03-12 13:25:48.5281 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:48.5281 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:48.6878 INFO Sucess: find rockey2 : 1
+2018-03-12 13:25:48.6878 INFO Sucess: open rockey2
+2018-03-12 13:25:48.7408 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 13:25:48.7408 INFO Valid license found + 2564932284
+2018-03-12 13:25:50.5225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5225 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:25:50.5225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5285 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:25:50.5285 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5285 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:50.5285 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5285 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:50.5439 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5439 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:50.5439 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5439 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:50.5836 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:50.5836 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:25:53.1522 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:25:53.1542 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:06.0531 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:30:06.1714 INFO Initialising Components...
+2018-03-12 13:30:09.1966 INFO Checking Database Connection...
+2018-03-12 13:30:09.2548 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:12.4822 INFO Checking License...
+2018-03-12 13:30:12.4822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:12.5053 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:12.6446 INFO Sucess: find rockey2 : 1
+2018-03-12 13:30:12.6446 INFO Sucess: open rockey2
+2018-03-12 13:30:12.6987 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 13:30:12.7010 INFO Valid license found + 2564932284
+2018-03-12 13:30:14.5076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5076 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:30:14.5136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5136 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:30:14.5136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5136 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:14.5136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5136 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:14.5306 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5306 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:14.5306 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5306 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:14.5716 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:14.5716 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:16.8056 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:16.8056 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:52.8165 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:30:52.9392 INFO Initialising Components...
+2018-03-12 13:30:55.9591 INFO Checking Database Connection...
+2018-03-12 13:30:56.0143 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:59.1477 INFO Checking License...
+2018-03-12 13:30:59.1577 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:30:59.1577 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:30:59.3162 INFO Sucess: find rockey2 : 1
+2018-03-12 13:30:59.3162 INFO Sucess: open rockey2
+2018-03-12 13:30:59.3697 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 13:30:59.3717 INFO Valid license found + 2564932284
+2018-03-12 13:31:04.7140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7160 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:31:04.7160 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7160 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:31:04.7160 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7160 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:31:04.7311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7311 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:31:04.7311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7311 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:31:04.7311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7311 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:31:04.7703 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:04.7703 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:31:09.1100 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:31:09.1100 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:06.5236 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:33:06.6334 INFO Initialising Components...
+2018-03-12 13:33:09.6490 INFO Checking Database Connection...
+2018-03-12 13:33:09.6761 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:12.7476 INFO Checking License...
+2018-03-12 13:33:12.7626 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:12.7626 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:12.9348 INFO Sucess: find rockey2 : 1
+2018-03-12 13:33:12.9348 INFO Sucess: open rockey2
+2018-03-12 13:33:12.9859 INFO The uid is : 2618208898 and hid 2564932284
+2018-03-12 13:33:12.9859 INFO Valid license found + 2564932284
+2018-03-12 13:33:14.9397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9397 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:33:14.9397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9397 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:33:14.9397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9498 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:14.9498 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9498 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:14.9498 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9498 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:14.9498 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9657 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:14.9998 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:14.9998 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:33:17.1964 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:33:17.1964 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:34:27.3264 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:34:27.3264 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:35:42.4006 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:35:42.4006 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:46.1921 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 13:37:46.3200 INFO Initialising Components...
+2018-03-12 13:37:49.3392 INFO Checking Database Connection...
+2018-03-12 13:37:49.3992 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:52.5273 INFO Checking License...
+2018-03-12 13:37:52.5413 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:52.5498 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:52.6403 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 13:37:55.2593 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:55.2593 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 13:37:57.8979 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.8979 INFO Query: SELECT * FROM User WHERE LoginId = 'Administrator' AND Password = '5LwAl4ldMRsMe1vj9DoH42NoGZDqCpKEfb44vWuDoC0='
+2018-03-12 13:37:57.9029 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9029 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 13:37:57.9029 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9029 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:57.9029 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9029 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:57.9212 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9212 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:57.9212 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9212 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:37:57.9561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:37:57.9561 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 13:38:00.1948 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 13:38:00.1948 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:34.6497 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 15:51:34.8557 INFO Initialising Components...
+2018-03-12 15:51:37.8783 INFO Checking Database Connection...
+2018-03-12 15:51:38.0683 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:41.3214 INFO Checking License...
+2018-03-12 15:51:41.3305 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:41.3867 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:41.5110 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 15:51:45.7427 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:45.7427 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 15:51:59.6178 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6178 INFO Query: SELECT * FROM User WHERE LoginId = 'superadmin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-03-12 15:51:59.6243 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6243 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 15:51:59.6243 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6243 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:59.6403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6403 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:59.6544 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6544 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:59.6544 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.6544 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:51:59.7085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:51:59.7085 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:52:05.5992 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:52:05.5992 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:52:38.3699 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:52:38.3699 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:31.6599 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 15:54:31.8082 INFO Initialising Components...
+2018-03-12 15:54:34.8342 INFO Checking Database Connection...
+2018-03-12 15:54:34.8992 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:38.1503 INFO Checking License...
+2018-03-12 15:54:38.1623 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:38.1724 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:38.2812 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 15:54:41.3235 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:41.3235 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 15:54:53.7941 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.7941 INFO Query: SELECT * FROM User WHERE LoginId = 'superadmin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-03-12 15:54:53.7941 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.7941 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 15:54:53.7941 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.7941 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:53.8106 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.8106 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:53.8106 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.8106 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:53.8106 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.8106 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:53.8573 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:53.8573 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:55.9422 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:54:55.9422 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:54:59.6168 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:55:07.3535 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:55:07.3535 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 15:55:15.4556 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 15:55:35.9845 INFO Finishing Initialisation...
+2018-03-12 16:57:11.1343 INFO Database file location: D:\IBTS\InProgress\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-03-12 16:57:11.3123 INFO Initialising Components...
+2018-03-12 16:57:14.3278 INFO Checking Database Connection...
+2018-03-12 16:57:14.6412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:18.2922 INFO Checking License...
+2018-03-12 16:57:18.2972 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:18.4347 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:57:21.5560 INFO Error: not find any rockey2 : -1609564149
+2018-03-12 16:57:48.8777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:48.8777 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-03-12 16:57:59.1097 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.1097 INFO Query: SELECT * FROM User WHERE LoginId = 'superadmin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-03-12 16:57:59.1881 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.1881 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-03-12 16:57:59.2010 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.2010 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:57:59.2208 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.2208 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:57:59.2339 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.2339 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:57:59.2339 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.2339 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:57:59.3212 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:57:59.3212 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:58:03.9649 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2018-03-12 16:58:03.9679 INFO Query: SELECT * FROM SystemSetting
+2018-03-12 16:58:16.7836 INFO Finishing Initialisation...

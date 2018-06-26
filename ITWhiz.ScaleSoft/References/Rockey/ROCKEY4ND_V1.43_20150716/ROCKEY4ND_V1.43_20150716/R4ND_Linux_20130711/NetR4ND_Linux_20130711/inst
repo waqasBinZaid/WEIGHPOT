@@ -1,0 +1,157 @@
+#!/bin/sh
+#install NetRockey4ND
+echo 
+echo Installing NetRockey4ND SDK
+echo
+
+script_path=`dirname "$0"`
+OSV=`file /bin/ls | cut -c14-15`
+
+#Check whether the current user is root
+if test $(id -ur) != 0; then
+	echo
+	echo "You should logon as root user!"
+	echo
+	exit -1
+fi
+
+if [ -d /etc/rc.d/init.d ];then
+	initdir=/etc/rc.d/init.d
+else
+	initdir=/etc/init.d
+fi 
+
+if [ -d /etc/rc.d ]; then
+	rlvldir=/etc/rc.d
+else
+	rlvldir=/etc
+fi
+iname=ryserv
+
+cp -f $script_path/server/server$OSV/api$OSV/libryserv.so /usr/local/lib/
+gcc -O2 -fPIC -o $iname /usr/local/lib/libryserv.so
+mv -f $iname $script_path/server/server$OSV/
+
+get_confirm()
+{
+	echo "[yes or no]"
+	while true
+	do
+		read X
+		case "$X" in
+			y | yes | Y | Yes | YES ) return 1;;
+			n | no | N | No | NO ) 
+				echo "Cancelled"
+				return 0;;
+			*) echo "Please enter yes or no";;
+		esac
+	done
+}
+
+if [ -f /usr/sbin/ryserv ] || [ -f /usr/local/bin/mon ] || [ -f /etc/rynet/CliCfg.ini ] || [ -f /etc/rynet/SvrCfg.ini ] || [ -f /usr/local/lib/libNetRockey4ND.so.0.1 ] || [ -f /usr/local/lib/libNetRockey4ND.a ] || [ -f /usr/local/include/rynet/NrClient.h ]; then
+
+	echo "The file Driver that this program was about to install already exists. Overwrite?"
+	if get_confirm ; then
+	   exit 1
+	fi
+																													    
+fi
+
+if [ -f /usr/sbin/ryserv ]; then
+	if [ -f $initdir/$iname ];then
+	sh $initdir/$iname stop
+	rm -f $initdir/$iname
+	fi
+	rm -f /usr/sbin/ryserv
+fi
+cp  -f $script_path/server/server$OSV/ryserv /usr/sbin
+
+chmod a+x /usr/sbin/ryserv
+
+cat > $initdir/$iname << eof
+#!/bin/sh
+#NetRockey4ND server
+#2008 feitian
+#
+
+if [ ! -x /usr/sbin/ryserv ];then
+	echo Rockey4ND server has not been install! 
+exit 0
+else
+case "\$1" in
+	start)
+		/usr/sbin/ryserv -c start -p all&
+		;;
+	stop)
+		/usr/sbin/ryserv -c stop -p all&
+		;;
+	restart|reload)
+		\$0 stop
+		\$0 start
+		;;
+	*)
+		echo "Usage: ryserv {start|stop|restart|reload}"
+		exit 1
+		
+esac
+exit 0
+fi
+eof
+
+chmod a+x $initdir/$iname
+sh $initdir/$iname start
+
+if [ -d $rlvldir/rc2.d ]; then
+	ln -sf ../init.d/$iname $rlvldir/rc2.d/S12ryserv
+	ln -sf ../init.d/$iname $rlvldir/rc2.d/K12ryserv
+fi
+if [ -d $rlvldir/rc3.d ]; then
+	ln -sf ../init.d/$iname $rlvldir/rc3.d/S12ryserv
+	ln -sf ../init.d/$iname $rlvldir/rc3.d/K12ryserv
+fi
+if [ -d $rlvldir/rc4.d ]; then
+	ln -sf ../init.d/$iname $rlvldir/rc4.d/S12ryserv
+	ln -sf ../init.d/$iname $rlvldir/rc4.d/K12ryserv
+fi
+if [ -d $rlvldir/rc5.d ]; then
+	ln -sf ../init.d/$iname $rlvldir/rc5.d/S12ryserv 
+	ln -sf ../init.d/$iname $rlvldir/rc5.d/K12ryserv 
+fi
+
+if [ ! -d /usr/local/include/rynet ]; then 
+	mkdir /usr/local/include/rynet
+fi
+if [ ! -d /etc/rynet ]; then
+	mkdir /etc/rynet
+fi
+
+cp   -f $script_path/client/include/*.h  /usr/local/include/rynet/
+cp   -f $script_path/client/api$OSV/*.a /usr/local/lib/
+cp   -f $script_path/client/api$OSV/*.so.* /usr/local/lib/
+
+ln -sf /usr/local/lib/libNetRockey4ND.so.0.1 /usr/local/lib/libNetRockey4ND.so
+
+/sbin/ldconfig
+
+cp -f $script_path/monitor/monitor$OSV/rockey4nd-monitor /usr/local/bin/
+cp -f $script_path/monitor/monitor.ico /usr/local/bin/
+
+chmod u+x /usr/local/bin/rockey4nd-monitor
+
+cp -f $script_path/client/test/CliCfg.ini  /etc/rynet/
+cp -f $script_path/server/SvrCfg.ini /etc/rynet/
+
+#check whether enable SELinux and gcc version
+GCCVER=`cat /proc/version | awk '{print $7}' | cut -d. -f 1`
+if [ $GCCVER = "4" ]; then
+	if [ -f /etc/sysconfig/selinux ]; then
+		grep "SELINUX=disable" /etc/sysconfig/selinux
+		if [ $? = "1" ]; then
+			chcon -t texrel_shlib_t /usr/local/lib/libNetRockey4ND.so.0.1
+		fi
+	fi
+fi
+
+echo NetRockey4ND Install Success......
+
+echo Start NetRockey4ND Server......

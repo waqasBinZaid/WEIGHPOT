@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="15689" PostSharpLinesOfCode="0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[ITWhiz.ScaleSoft.Desktop]ITWhiz.ScaleSoft.Desktop.Controls.AuthorizeAttribute">
+    <Instance Declaration="#2=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSecurityRole::tsbNew_Click(System.Object, System.EventArgs)" Id="696b484494d681a9">
+      <Target>
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="0" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#4=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSecurityRole::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b484487fb3731">
+      <Target>
+        <JoinPoint Description="#3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#5=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSystemSettings::CmdLogin_Click(System.Object, System.EventArgs)" Id="696b4844900c7d30">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="2" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmWeighments::tsbNew_Click(System.Object, System.EventArgs)" Id="696b4844a50badff">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#7=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmWeighments::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b48445215e0de">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="4" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#8=M:[ITWhiz.ScaleSoft.Desktop]ITWhiz.ScaleSoft.Desktop.Controls.AuthorizeAttribute::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#9=2" Description="#10=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#11=M:[PostSharp]PostSharp.Aspects.OnMethodBoundaryAspect::OnSuccess([PostSharp]PostSharp.Aspects.MethodExecutionArgs)" Arguments="#9" Description="#10" />
+  <Annotation Target="#12=M:[PostSharp]PostSharp.Aspects.OnMethodBoundaryAspect::OnExit([PostSharp]PostSharp.Aspects.MethodExecutionArgs)" Arguments="#9" Description="#10" />
+  <Annotation Target="#13=M:[PostSharp]PostSharp.Aspects.OnMethodBoundaryAspect::OnException([PostSharp]PostSharp.Aspects.MethodExecutionArgs)" Arguments="#9" Description="#10" />
+</Symbols>

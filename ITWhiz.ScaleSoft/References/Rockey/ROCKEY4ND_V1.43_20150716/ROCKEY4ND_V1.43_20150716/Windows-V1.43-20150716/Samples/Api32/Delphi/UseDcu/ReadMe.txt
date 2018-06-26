@@ -1,0 +1,1 @@
+Please copy the according Rockey4ND.dcu in \Api32\Delphi folders to current folders

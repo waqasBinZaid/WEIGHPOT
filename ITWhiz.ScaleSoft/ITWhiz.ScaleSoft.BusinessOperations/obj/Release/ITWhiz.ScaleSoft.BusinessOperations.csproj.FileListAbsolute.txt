@@ -1,0 +1,84 @@
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.xml
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.csprojResolveAssemblyReference.cache
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll.config
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.xml
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.xml
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.xml
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.csprojResolveAssemblyReference.cache
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll.config
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.csprojResolveAssemblyReference.cache
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll.config
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll.config
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.DataAccess.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\NLog.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.BusinessOperations\obj\Release\ITWhiz.ScaleSoft.BusinessOperations.pdb

@@ -1,0 +1,1 @@
+Please make sure to copy Rockey4ND.lib and Rockey4_ND_32.h to each folder before running these samples.

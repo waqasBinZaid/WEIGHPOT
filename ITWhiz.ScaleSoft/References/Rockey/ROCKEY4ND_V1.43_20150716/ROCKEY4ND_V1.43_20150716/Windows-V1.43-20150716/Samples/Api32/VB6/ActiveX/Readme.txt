@@ -1,0 +1,1 @@
+Before running this sample, make sure to register Api32\ActiveX\Rockey4ND.ocx

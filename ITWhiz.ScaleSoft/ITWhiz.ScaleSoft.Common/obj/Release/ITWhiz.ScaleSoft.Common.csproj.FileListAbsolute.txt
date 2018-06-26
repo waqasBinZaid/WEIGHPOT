@@ -1,0 +1,44 @@
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.xml
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.csprojResolveAssemblyReference.cache
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.dll
+E:\Temp\Backup\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.xml
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\WeighPot\Backuplatest\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll.config
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.csprojResolveAssemblyReference.cache
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Facotry Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll.config
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\ITWhiz.ScaleSoft.Common.pdb
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.SqlServer.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.EF6.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.Linq.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\EntityFramework.SqlServer.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\NLog.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\bin\Release\System.Data.SQLite.xml
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.dll
+E:\IBTS\Product\Rice Factory Software - 20171026\Source Code\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Common\obj\Release\ITWhiz.ScaleSoft.Common.pdb

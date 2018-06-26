@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITWhiz.ScaleSoft.BusinessOperations", "ITWhiz.ScaleSoft.BusinessOperations\ITWhiz.ScaleSoft.BusinessOperations.csproj", "{04F82FE3-909B-4C37-9037-484A455484E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITWhiz.ScaleSoft.DataAccess", "ITWhiz.ScaleSoft.DataAccess\ITWhiz.ScaleSoft.DataAccess.csproj", "{CE6C9132-E552-4A58-9B05-ADA61005664F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITWhiz.ScaleSoft.Desktop", "ITWhiz.ScaleSoft.Desktop\ITWhiz.ScaleSoft.Desktop.csproj", "{178574A1-88EE-4CB9-89DC-0320C207951D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITWhiz.ScaleSoft.Common", "ITWhiz.ScaleSoft.Common\ITWhiz.ScaleSoft.Common.csproj", "{91863387-F135-4C9A-8DC4-C4F5978A515C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{38857ABD-7366-4218-8DB7-1380C8F40A16}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01D0CB7C-6AA5-4209-8D3B-CE47F0C01FA2}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WeighPot", "WeighPot\WeighPot.vdproj", "{5CB86EEF-3214-41AC-A492-85F654518681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F82FE3-909B-4C37-9037-484A455484E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F82FE3-909B-4C37-9037-484A455484E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F82FE3-909B-4C37-9037-484A455484E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F82FE3-909B-4C37-9037-484A455484E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6C9132-E552-4A58-9B05-ADA61005664F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6C9132-E552-4A58-9B05-ADA61005664F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6C9132-E552-4A58-9B05-ADA61005664F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6C9132-E552-4A58-9B05-ADA61005664F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178574A1-88EE-4CB9-89DC-0320C207951D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178574A1-88EE-4CB9-89DC-0320C207951D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178574A1-88EE-4CB9-89DC-0320C207951D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178574A1-88EE-4CB9-89DC-0320C207951D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91863387-F135-4C9A-8DC4-C4F5978A515C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91863387-F135-4C9A-8DC4-C4F5978A515C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91863387-F135-4C9A-8DC4-C4F5978A515C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91863387-F135-4C9A-8DC4-C4F5978A515C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB86EEF-3214-41AC-A492-85F654518681}.Debug|Any CPU.ActiveCfg = Debug
+		{5CB86EEF-3214-41AC-A492-85F654518681}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

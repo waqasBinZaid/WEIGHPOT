@@ -1,0 +1,220 @@
+ clear
+ 
+ *Nrclient.dll Function
+ declare integer NetRockey in Nrclient.dll integer  service, integer @ handle, long @ lp1, long @ lp2, integer @ p1, integer @ p2, integer @ p3, integer @ p4, string @ buffer
+ declare integer SetIniPathName in Nrclient.dll string @ ininame
+ declare integer NrGetLastError in Nrclient.dll 
+ declare integer NrGetVersion in Nrclient.dll
+
+ *NetROCKEY functions
+ store 1 to RY_FIND 
+ store 2 to RY_FIND_NEXT
+ store 3 to RY_OPEN
+ store 4 to RY_CLOSE
+ store 5 to RY_READ
+ store 6 to RY_WRITE 
+ store 7 to RY_RANDOM
+ store 8 to RY_SEED
+ store 10 to RY_READ_USERID 
+ store 12 to RY_CHECK_MOUDLE
+ store 14 to RY_CALCULATE1 
+ store 15 to RY_CALCULATE2
+ store 16 to RY_CALCULATE3
+ store 17 to RY_DECREASE
+      
+
+
+*Rockey Error Code
+store  0    to  ERR_SUCCESS
+store  1    to  ERR_NO_PARALLEL_PORT
+store  2    to  ERR_NO_DRIVER				
+store  3	to  ERR_NO_ROCKEY						
+store  4	to  ERR_INVALID_PASSWORD				
+store  5	to  ERR_INVALID_PASSWORD_OR_ID			
+store  6	to  ERR_SETID						
+store  7	to  ERR_INVALID_ADDR_OR_SIZE			
+store  8	to  ERR_UNKNOWN_COMMAND				
+store  9	to  ERR_NOTBELEVEL3				
+store  10	to  ERR_READ						
+store  11	to  ERR_WRITE							
+store  12	to  ERR_RANDOM							
+store  13	to  ERR_SEED							
+store  14	to  ERR_CALCULATE						
+store  15	to  ERR_NO_OPEN						
+store  16	to  ERR_OPEN_OVERFLOW					
+store  17	to  ERR_NOMORE							
+store  18	to  ERR_NEED_FIND						
+store  19	to  ERR_DECREASE						
+store  20	to  ERR_AR_BADCOMMAND					
+store  21	to  ERR_AR_UNKNOWN_OPCODE				
+store  22	to  ERR_AR_WRONGBEGIN					
+store  23	to  ERR_AR_WRONG_END					
+store  24	to  ERR_AR_VALUEOVERFLOW				
+
+
+store  1001	to    ERR_NET_LOGINAGAIN				
+store  1002 to    ERR_NET_NETERROR					
+store  1003	to	 ERR_NET_LOGIN					
+store  1004	to	 ERR_NET_INVALIDHANDLE			
+store  1005	to	 ERR_NET_BADHARDWARE			
+store  1006	to	 ERR_NET_REFUSE					
+store  1007	to	 ERR_NET_BADSERVER		
+
+*Error code for network
+
+store  2001	to ERR_INIT_SOCK					    
+store  2002	to ERR_NOSUCHPROTO					
+store  2003	to ERR_UDPSOCKCREATE				
+store  2004	to ERR_UDPSETBROADCAST				
+store  2005 to ERR_UDPBINDFAILED					
+store  2006	to ERR_SVRCALLBACKNULL				
+store  2007	to ERR_TCPSOCKCREATE				
+store  2008	to ERR_TCPBINDFAILED				
+store  2009	to ERR_TCPLISTENFAILED				
+store  2010	to ERR_NOSUCHSEARCH				
+store  2012 to ERR_UDPSEND							
+store  2013	to ERR_UDPTIMEOUT					
+store  2014	to ERR_UDPRECV						
+store  2015	to	ERR_TCPCONNECT					
+store  2016	to ERR_TCPSENDTIMEOUT				
+store  2017	to	ERR_TCPSEND						
+store  2018	to ERR_TCPRECVTIMEOUT				
+store  2019	to	ERR_TCPRECV						
+store  2020	to ERR_IPXSOCKCREATE				
+store  2021	to ERR_IPXSETBROADCAST				
+store  2022	to	ERR_IPXSEND						
+store  2023	to	ERR_IPXRECV						
+store  2024	to ERR_IPXBIND						
+store  2025	to ERR_NBSRESET					
+store  2026	to ERR_NBSADDNAME					
+store  2027	to ERR_NBSSEND						
+store  2028	to ERR_NBSRECV						
+
+	
+store 0xffff to  ERR_UNKNOWN					
+ 
+ 
+* Start 
+store 0xc44c  to	p1 
+store 0xc8f8  to	p2 
+store 0  to	p3 
+store 0  to	p4 
+
+store 0       to    lp1
+store 0       to    lp2
+store 0       to    handle
+store "hello" to    buffer
+store 0       to    hResult
+store 0 to hid
+ 
+ *Find Net Rockey4ND
+ hResult= NetRockey (RY_FIND, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+ if( hResult<>0)
+		?"Can't find ROCKEY!! error code=",hResult
+		return
+ else
+		?"Find a ROCKEY HID:",lp1
+ endif 
+  
+ *Opening module 0
+ lp2 = 0
+ hResult = NetRockey (RY_OPEN, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+  if( hResult<>0)
+		?"Opened Module Fail! error code=",hResult
+		return
+ else
+		?"Opened,Handle=",handle		
+ endif
+ 
+ *Read User Memory.
+ p1=0
+ p2=24
+ buffer=space(30)
+ hResult = NetRockey (RY_READ, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+ if( hResult<>0)
+		?"Read User Memory Fail! error code=",hResult
+		return
+ else
+		?"Read User Memory:",buffer		
+ endif
+ 
+ *Test Random
+ hResult = NetRockey (RY_RANDOM, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+  if( hResult<>0)
+		?"Random Fail! error code=",hResult
+		return
+ else
+		?"Random:",p1		
+ endif
+ 
+ *Test Seed
+ lp2 = 0x1234
+ hResult = NetRockey (RY_SEED, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+ if( hResult<>0)
+		?"Seed Fail! error code=",hResult
+		return
+ else
+		?"Seed:",p1	,p2,p3,p4
+ endif
+ 
+ *Read uid
+ lp1 = 0
+ hResult = NetRockey (RY_READ_USERID, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+ if( hResult<>0)
+		?"Read uid Fail! error code=",hResult
+		return
+ else
+		?"Read uid:",lp1
+ endif
+ 
+ 
+ *Check the property of module 0
+ p1=0
+ hResult = NetRockey (RY_CHECK_MOUDLE, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+ if( hResult<>0)
+		?"Check  module Fail! error code=",hResult
+		return
+ else
+		?"Succeed,validity:",p2 
+		? "Can decrease:",p3
+ endif
+ 
+ *Calculate 1
+ lp1=0
+ lp2=0
+ p1=1
+ p2=2
+ p3=3
+ p4=4
+ hResult = NetRockey (RY_CALCULATE1, @handle, @lp1, @lp2, @p1, @p2, @p3, @p4, @buffer) 
+  if( hResult<>0)
+		?"Calculate 1 Fail! error code=",hResult
+		return
+ else
+		?"Calculate 1:",p1,p2,p3,p4 		
+ endif
+ 
+ 
+ clear dlls
+? "Test End!"
+inkey(1000)
+return
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

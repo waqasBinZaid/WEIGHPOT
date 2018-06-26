@@ -1,0 +1,3 @@
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\2414_6\Default\Default\FT_HID]
+   "Prefix"="FID"
+   "Dll"="FT_HID.DLL"

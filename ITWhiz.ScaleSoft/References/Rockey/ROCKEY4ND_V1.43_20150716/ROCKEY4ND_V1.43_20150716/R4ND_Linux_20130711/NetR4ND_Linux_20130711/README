@@ -1,0 +1,65 @@
+ 	Copyright (C) 2005-2010 Feitian Technologies Co.,Ltd.
+http://www.ftsafe.com
+
+Net Rockey4ND SDK for Linux
+
+
+Requirements
+============
+OS: Linux 2.4. Linux 2.6. 
+
+Installation
+============
+
+1. Install. As 'root' user run:
+
+	#./inst
+	
+4. Uninstallation.
+
+   In package directory just type:
+
+	# ./uninst
+
+
+Test
+===============
+After successful installation: 
+
+1. compile 
+
+   	# cd client/test
+	# make
+
+2. Run  application.
+
+        # ./test
+
+
+Log file
+===============
+1. Start syslog
+
+	#/etc/rc.d/init.d/syslog start
+
+2. Check log file
+
+	# cat /var/log/messages
+
+
+Client Configure file
+==================
+
+	/etc/rynet/CliCfg.ini
+
+Monitor
+=================
+
+	# Rockey4ND-Monitor (Need install GTK V2.4.16 or above!)
+
+Feedback
+========
+
+Please send any feedbacks to Feitian Technologies. See the Feitian
+web site for contact information (www.ftsafe.com).
+

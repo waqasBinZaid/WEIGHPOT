@@ -1,0 +1,1 @@
+please copy Nrclient.dll and according CliCfg.ini file to current folder

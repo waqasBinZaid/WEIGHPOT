@@ -1,0 +1,614 @@
+2017-10-20 00:37:16.6184 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:37:16.9328 INFO Initialising Components...
+2017-10-20 00:37:20.0360 INFO Checking Database Connection...
+2017-10-20 00:37:20.0709 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:23.1806 INFO Finishing Initialisation...
+2017-10-20 00:37:23.1962 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:27.9126 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:27.9226 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:27.9327 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:31.2386 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:31.2632 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:31.2632 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:37:31.2940 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:38:16.7583 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:38:17.0241 INFO Initialising Components...
+2017-10-20 00:38:20.1160 INFO Checking Database Connection...
+2017-10-20 00:38:20.1581 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:38:23.2344 INFO Finishing Initialisation...
+2017-10-20 00:38:23.2585 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:38:57.5360 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:38:57.5480 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:38:57.5480 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:00.6690 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:00.6952 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:00.7022 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:00.8202 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:38.8186 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:39:39.0482 INFO Initialising Components...
+2017-10-20 00:39:42.1678 INFO Checking Database Connection...
+2017-10-20 00:39:42.2079 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:45.2912 INFO Finishing Initialisation...
+2017-10-20 00:39:45.3072 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:47.3696 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:47.3696 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:47.3866 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:50.3269 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:50.3530 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:50.3530 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:39:50.3815 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:41:57.2348 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:41:57.5096 INFO Initialising Components...
+2017-10-20 00:42:00.6083 INFO Checking Database Connection...
+2017-10-20 00:42:00.6574 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:03.7396 INFO Finishing Initialisation...
+2017-10-20 00:42:03.7607 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:06.0956 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:06.1037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:06.1037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:09.7451 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:09.7732 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:09.7792 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:42:09.8018 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:04.6842 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:52:04.9495 INFO Initialising Components...
+2017-10-20 00:52:08.0788 INFO Checking Database Connection...
+2017-10-20 00:52:08.1407 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:11.2214 INFO Finishing Initialisation...
+2017-10-20 00:52:11.2384 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:15.1838 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:15.1838 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:15.2039 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:19.4057 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:19.4309 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:19.4380 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:52:19.4550 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:18.0597 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 00:54:18.3244 INFO Initialising Components...
+2017-10-20 00:54:21.4218 INFO Checking Database Connection...
+2017-10-20 00:54:21.4713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:24.5734 INFO Finishing Initialisation...
+2017-10-20 00:54:24.5915 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:51.0292 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:51.0292 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:51.0443 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:57.4660 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:57.4951 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:57.4951 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 00:54:57.5191 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:15.2067 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 02:29:15.4444 INFO Initialising Components...
+2017-10-20 02:29:18.5736 INFO Checking Database Connection...
+2017-10-20 02:29:18.6713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:21.8053 INFO Finishing Initialisation...
+2017-10-20 02:29:21.8244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:23.7109 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:23.7249 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:23.7330 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:27.2934 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:27.3185 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:27.3255 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:29:27.3426 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:20.2004 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 02:32:20.4260 INFO Initialising Components...
+2017-10-20 02:32:23.5972 INFO Checking Database Connection...
+2017-10-20 02:32:23.6829 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:26.8970 INFO Finishing Initialisation...
+2017-10-20 02:32:26.9166 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:31.5237 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:31.5322 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:31.5322 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:47.4234 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:47.4524 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:47.4524 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:32:47.4758 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:28.0005 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 02:41:28.2369 INFO Initialising Components...
+2017-10-20 02:41:31.3602 INFO Checking Database Connection...
+2017-10-20 02:41:31.4495 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:34.6618 INFO Finishing Initialisation...
+2017-10-20 02:41:34.6798 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:47.0605 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:47.0605 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:47.0816 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:59.8711 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:59.8968 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:59.9032 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:41:59.9203 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:45:21.7154 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:45:21.9646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:45:22.9117 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:45:30.2937 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 02:45:30.3253 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:01.4568 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 03:00:01.7652 INFO Initialising Components...
+2017-10-20 03:00:04.8680 INFO Checking Database Connection...
+2017-10-20 03:00:04.9511 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:08.1297 INFO Finishing Initialisation...
+2017-10-20 03:00:08.1427 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:09.9075 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:09.9175 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:09.9175 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:14.1000 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:14.1261 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:14.1261 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:00:14.1491 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:56:43.4450 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 03:56:43.6921 INFO Initialising Components...
+2017-10-20 03:56:46.8826 INFO Checking Database Connection...
+2017-10-20 03:56:47.2136 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:56:50.5222 INFO Finishing Initialisation...
+2017-10-20 03:56:50.5378 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:56:56.3999 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:56:56.3999 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:56:56.3999 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:57:02.3426 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:57:02.3793 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 03:57:02.4586 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:20.4436 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:00:20.6757 INFO Initialising Components...
+2017-10-20 04:00:23.7988 INFO Checking Database Connection...
+2017-10-20 04:00:23.8769 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:27.0001 INFO Finishing Initialisation...
+2017-10-20 04:00:27.0001 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:28.8405 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:28.8561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:28.8561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:31.9957 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:31.9957 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:00:32.0336 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:01:01.9707 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:01:02.3397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:01:03.1718 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:01:10.2818 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:01:10.2975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:21.9031 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:14:22.1778 INFO Initialising Components...
+2017-10-20 04:14:25.3566 INFO Checking Database Connection...
+2017-10-20 04:14:25.5929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:28.9194 INFO Finishing Initialisation...
+2017-10-20 04:14:28.9395 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:31.1422 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:31.1502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:31.1502 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:33.9619 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:33.9935 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:14:34.0896 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:27:56.4718 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:27:56.7355 INFO Initialising Components...
+2017-10-20 04:27:59.8423 INFO Checking Database Connection...
+2017-10-20 04:27:59.9046 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:03.0822 INFO Finishing Initialisation...
+2017-10-20 04:28:03.0976 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:04.9198 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:04.9418 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:04.9418 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:08.7907 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:08.8063 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:28:08.8401 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:10.8425 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:40:11.0992 INFO Initialising Components...
+2017-10-20 04:40:14.2191 INFO Checking Database Connection...
+2017-10-20 04:40:14.3022 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:17.5261 INFO Finishing Initialisation...
+2017-10-20 04:40:17.5261 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:19.1622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:19.1777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:19.1777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:22.4019 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:22.4019 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:22.4397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:40:57.1022 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:40:57.3338 INFO Initialising Components...
+2017-10-20 04:41:00.4504 INFO Checking Database Connection...
+2017-10-20 04:41:00.4814 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:03.5859 INFO Finishing Initialisation...
+2017-10-20 04:41:03.5978 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:13.3375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:13.3375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:13.3686 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:16.5703 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:16.5859 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:16.6076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:41:53.5672 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:41:53.8466 INFO Initialising Components...
+2017-10-20 04:41:56.9494 INFO Checking Database Connection...
+2017-10-20 04:41:57.0340 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:00.1842 INFO Finishing Initialisation...
+2017-10-20 04:42:00.2043 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:03.5395 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:03.5552 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:03.5708 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:08.0624 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:08.0624 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:42:08.0937 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:49:48.9069 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 04:49:49.1231 INFO Initialising Components...
+2017-10-20 04:49:52.2301 INFO Checking Database Connection...
+2017-10-20 04:49:52.2996 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:49:55.4924 INFO Finishing Initialisation...
+2017-10-20 04:49:55.5078 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:01.2328 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:01.2485 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:01.2485 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:04.9750 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:04.9906 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:50:05.0375 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:13.9003 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:14.3003 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:14.6480 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:21.7696 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:21.8074 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:33.1675 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 04:57:33.1831 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:36:49.7881 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 05:36:50.0193 INFO Initialising Components...
+2017-10-20 05:36:53.1616 INFO Checking Database Connection...
+2017-10-20 05:36:53.2307 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:36:56.4049 INFO Finishing Initialisation...
+2017-10-20 05:36:56.4204 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:00.7449 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:00.7449 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:00.7606 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:04.5921 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:04.6078 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:37:04.6299 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:31.0042 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 05:46:31.2559 INFO Initialising Components...
+2017-10-20 05:46:34.3606 INFO Checking Database Connection...
+2017-10-20 05:46:34.3763 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:37.4777 INFO Finishing Initialisation...
+2017-10-20 05:46:37.4777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:41.2001 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:41.2001 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:41.2157 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:45.6451 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:45.6608 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:46:45.6920 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:49:41.5562 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:49:41.9403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:49:42.2777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:49:48.5892 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:49:48.6049 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:53:55.0673 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 05:53:55.3067 INFO Initialising Components...
+2017-10-20 05:53:58.3827 INFO Checking Database Connection...
+2017-10-20 05:53:58.4623 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:01.6136 INFO Finishing Initialisation...
+2017-10-20 05:54:01.6327 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:05.9090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:05.9200 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:05.9200 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:08.5487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:08.5565 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:54:08.5891 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 05:57:27.8085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:05.1519 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:13:05.6080 INFO Initialising Components...
+2017-10-20 21:13:08.9982 INFO Checking Database Connection...
+2017-10-20 21:13:09.2976 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:12.7844 INFO Finishing Initialisation...
+2017-10-20 21:13:12.8030 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:18.8786 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:18.8896 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:18.8896 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:23.4825 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:23.5045 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:13:23.5688 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:42.2927 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:16:42.5293 INFO Initialising Components...
+2017-10-20 21:16:45.6429 INFO Checking Database Connection...
+2017-10-20 21:16:45.7054 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:48.9120 INFO Finishing Initialisation...
+2017-10-20 21:16:48.9339 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:51.0876 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:51.0876 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:51.1033 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:55.4244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:55.4244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:16:55.4622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:20:14.4290 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:20:14.6517 INFO Initialising Components...
+2017-10-20 21:20:17.7570 INFO Checking Database Connection...
+2017-10-20 21:20:17.8410 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:20:21.0581 INFO Finishing Initialisation...
+2017-10-20 21:20:21.0735 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:20:32.3669 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:20:32.3825 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:20:32.3981 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:21:11.3569 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:21:11.3725 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:21:11.4038 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:56:05.1213 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:56:05.4796 INFO Initialising Components...
+2017-10-20 21:56:08.5795 INFO Checking Database Connection...
+2017-10-20 21:56:08.6798 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:56:11.8334 INFO Finishing Initialisation...
+2017-10-20 21:56:11.8491 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:56:13.8233 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:56:13.8389 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:56:13.8389 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:58:31.8996 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:58:32.1653 INFO Initialising Components...
+2017-10-20 21:58:35.2763 INFO Checking Database Connection...
+2017-10-20 21:58:35.3449 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:58:38.5046 INFO Finishing Initialisation...
+2017-10-20 21:58:38.5201 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:58:41.3622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:58:41.3622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:58:41.3793 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:59:52.3684 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 21:59:52.6209 INFO Initialising Components...
+2017-10-20 21:59:55.7239 INFO Checking Database Connection...
+2017-10-20 21:59:55.8085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 21:59:58.9825 INFO Finishing Initialisation...
+2017-10-20 21:59:59.0017 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:01.1858 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:01.2018 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:01.2174 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:04.2071 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:04.2383 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:00:04.2917 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:37.5306 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:03:37.7752 INFO Initialising Components...
+2017-10-20 22:03:40.8920 INFO Checking Database Connection...
+2017-10-20 22:03:40.9610 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:44.1411 INFO Finishing Initialisation...
+2017-10-20 22:03:44.1595 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:46.4646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:46.5644 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:46.5956 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:50.1694 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:50.2006 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:03:50.2319 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:04:00.7811 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:04:00.7811 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:04:46.5547 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:04:46.8013 INFO Initialising Components...
+2017-10-20 22:04:49.9049 INFO Checking Database Connection...
+2017-10-20 22:04:49.9674 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:04:53.1254 INFO Finishing Initialisation...
+2017-10-20 22:04:53.1409 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:04.8822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:04.8822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:04.8978 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:08.3723 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:08.3879 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:08.4192 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:28.1537 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:05:28.2697 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:03.1762 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:09:03.5162 INFO Initialising Components...
+2017-10-20 22:09:06.6203 INFO Checking Database Connection...
+2017-10-20 22:09:06.7047 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:09.8417 INFO Finishing Initialisation...
+2017-10-20 22:09:09.8572 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:12.2148 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:12.2304 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:12.2304 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:15.1170 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:15.1327 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:09:15.1952 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:43.8536 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:10:44.1454 INFO Initialising Components...
+2017-10-20 22:10:47.2322 INFO Checking Database Connection...
+2017-10-20 22:10:47.3166 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:50.4717 INFO Finishing Initialisation...
+2017-10-20 22:10:50.4717 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:53.9271 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:53.9427 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:53.9427 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:57.3349 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:57.3505 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:10:57.3984 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:09.1848 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:15:09.4791 INFO Initialising Components...
+2017-10-20 22:15:12.5836 INFO Checking Database Connection...
+2017-10-20 22:15:12.6751 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:15.8163 INFO Finishing Initialisation...
+2017-10-20 22:15:15.8163 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:17.7232 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:17.7389 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:17.7545 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:37.5025 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:37.5867 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:37.6553 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:50.3285 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:50.3442 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:55.5611 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:55.5611 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:58.9336 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:15:58.9493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:16:04.6773 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:16:04.6929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:16:29.6031 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:16:29.6031 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:06.8285 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:20:07.0682 INFO Initialising Components...
+2017-10-20 22:20:10.2344 INFO Checking Database Connection...
+2017-10-20 22:20:10.2705 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:13.4225 INFO Finishing Initialisation...
+2017-10-20 22:20:13.4420 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:16.2485 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:16.2485 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:16.2485 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:24.9648 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:24.9648 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:20:24.9961 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:02.0551 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:25:02.3374 INFO Initialising Components...
+2017-10-20 22:25:05.4397 INFO Checking Database Connection...
+2017-10-20 22:25:05.5242 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:08.7814 INFO Finishing Initialisation...
+2017-10-20 22:25:08.7968 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:11.3992 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:11.4146 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:11.4146 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:15.9187 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:15.9343 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:15.9720 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:26.5082 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:26.5082 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:31.2966 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:31.3122 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:25:57.6838 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:25:57.9225 INFO Initialising Components...
+2017-10-20 22:26:01.0341 INFO Checking Database Connection...
+2017-10-20 22:26:01.0829 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:04.2556 INFO Finishing Initialisation...
+2017-10-20 22:26:04.2713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:08.8090 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:08.8244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:08.8244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:17.2880 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:17.3036 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:17.3545 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:24.9775 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:24.9931 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:29.6663 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:26:29.6820 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:01.1025 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:28:01.3498 INFO Initialising Components...
+2017-10-20 22:28:04.4379 INFO Checking Database Connection...
+2017-10-20 22:28:04.5226 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:07.6792 INFO Finishing Initialisation...
+2017-10-20 22:28:07.6792 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:09.7122 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:09.7122 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:09.7279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:14.8156 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:14.8313 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:14.8686 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:20.0112 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:28:20.0112 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:44:54.4561 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:44:54.7158 INFO Initialising Components...
+2017-10-20 22:44:57.7938 INFO Checking Database Connection...
+2017-10-20 22:44:57.8727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:01.0407 INFO Finishing Initialisation...
+2017-10-20 22:45:01.0578 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:04.1784 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:04.1894 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:04.1975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:10.4942 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:10.4942 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:10.5418 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:45.1691 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:45:45.1691 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:46:02.3884 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:46:07.8941 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:46:07.9033 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:48:48.3584 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:48:58.9331 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:48:58.9331 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:22.5256 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 22:57:22.7871 INFO Initialising Components...
+2017-10-20 22:57:25.8994 INFO Checking Database Connection...
+2017-10-20 22:57:25.9791 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:29.2056 INFO Finishing Initialisation...
+2017-10-20 22:57:29.2237 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:34.9623 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:34.9723 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:34.9800 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:40.1208 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:40.1208 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 22:57:40.1624 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:01:40.1406 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:01:40.3953 INFO Initialising Components...
+2017-10-20 23:01:43.4977 INFO Checking Database Connection...
+2017-10-20 23:01:43.5777 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:01:46.7364 INFO Finishing Initialisation...
+2017-10-20 23:01:46.7535 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:03.5169 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:03.5280 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:03.5410 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:08.9308 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:08.9388 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:02:08.9726 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:34.0105 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:04:34.2549 INFO Initialising Components...
+2017-10-20 23:04:37.3481 INFO Checking Database Connection...
+2017-10-20 23:04:37.4282 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:40.5950 INFO Finishing Initialisation...
+2017-10-20 23:04:40.6130 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:43.7013 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:43.7013 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:43.7213 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:48.7761 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:48.7761 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:04:48.8168 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:00.3474 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:09:00.6749 INFO Initialising Components...
+2017-10-20 23:09:03.7623 INFO Checking Database Connection...
+2017-10-20 23:09:03.8434 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:06.9789 INFO Finishing Initialisation...
+2017-10-20 23:09:06.9959 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:09.3456 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:09.3561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:09.3561 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:14.3593 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:14.3593 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:09:14.4019 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:12:29.6582 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:12:29.7365 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:13.4765 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:21:13.7222 INFO Initialising Components...
+2017-10-20 23:21:16.8247 INFO Checking Database Connection...
+2017-10-20 23:21:16.9435 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:20.0940 INFO Finishing Initialisation...
+2017-10-20 23:21:20.1211 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:22.5182 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:22.5302 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:22.5302 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:28.4669 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:28.4669 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:21:28.5265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:25:50.7019 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:25:50.9975 INFO Initialising Components...
+2017-10-20 23:25:54.1172 INFO Checking Database Connection...
+2017-10-20 23:25:54.2050 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:25:57.3693 INFO Finishing Initialisation...
+2017-10-20 23:25:57.3863 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:25:59.1306 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:25:59.1412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:25:59.1412 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:26:04.3110 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:26:04.3110 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:26:04.3568 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:16.9055 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:31:17.1593 INFO Initialising Components...
+2017-10-20 23:31:20.2793 INFO Checking Database Connection...
+2017-10-20 23:31:20.3631 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:23.5327 INFO Finishing Initialisation...
+2017-10-20 23:31:23.5487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:49.8616 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:49.8727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:49.8727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:54.8563 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:54.8563 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:31:54.8964 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:06.7223 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:35:07.0290 INFO Initialising Components...
+2017-10-20 23:35:10.1513 INFO Checking Database Connection...
+2017-10-20 23:35:10.2203 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:13.3477 INFO Finishing Initialisation...
+2017-10-20 23:35:13.3668 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:16.3381 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:16.3381 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:16.3571 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:22.5676 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:22.5756 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:35:22.6102 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:43.0592 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-20 23:52:43.3528 INFO Initialising Components...
+2017-10-20 23:52:46.5232 INFO Checking Database Connection...
+2017-10-20 23:52:46.6151 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:49.7616 INFO Finishing Initialisation...
+2017-10-20 23:52:49.7799 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:52.5803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:52.5903 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:52.5903 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:56.7963 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:56.8114 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:52:56.8719 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-20 23:53:06.9381 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;

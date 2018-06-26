@@ -1,0 +1,1329 @@
+2018-06-25 09:11:18.8703 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 09:11:20.1000 INFO Initialising Components...
+2018-06-25 09:11:23.2244 INFO Checking Database Connection...
+2018-06-25 09:11:23.9146 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:11:27.8100 INFO Checking License...
+2018-06-25 09:11:27.9562 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:11:27.9859 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:11:29.1239 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 09:31:40.4760 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:40.4760 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 09:31:59.2575 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.2575 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 09:31:59.2909 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.2909 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 09:31:59.3189 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.3287 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.3651 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.3926 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.4083 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.4167 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.4319 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.4319 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.9125 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.9375 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.9551 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.9663 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:31:59.9844 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:31:59.9951 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:32:11.9919 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:11.9919 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:32:12.2254 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:12.2254 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:32:12.2573 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:12.2573 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 09:32:12.2953 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:12.2953 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 09:32:12.3753 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:12.3916 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:32:14.3357 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:32:14.3357 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 09:45:19.1781 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 09:45:19.3944 INFO Initialising Components...
+2018-06-25 09:45:22.4249 INFO Checking Database Connection...
+2018-06-25 09:45:23.5553 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:29.4265 INFO Checking License...
+2018-06-25 09:45:29.4673 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:29.5435 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:29.7535 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 09:45:32.9008 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:32.9008 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 09:45:38.3067 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.3067 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 09:45:38.3274 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.3274 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 09:45:38.3433 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.3433 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.3653 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.3747 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.3874 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.3874 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.4084 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.4140 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.4533 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.4533 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.4677 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.4677 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:45:38.4816 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:45:38.4816 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:46:36.5015 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:46:36.5208 INFO Query: SELECT * FROM Indicators 
+2018-06-25 09:46:36.5674 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:46:36.5842 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:46:36.6317 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 09:46:36.6524 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 09:48:09.6716 INFO Finishing Initialisation...
+2018-06-25 10:09:33.3140 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 10:09:33.4644 INFO Initialising Components...
+2018-06-25 10:09:36.5018 INFO Checking Database Connection...
+2018-06-25 10:09:36.8766 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:09:40.0160 INFO Checking License...
+2018-06-25 10:09:40.1090 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:09:40.1306 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:09:40.2173 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 10:19:32.4605 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:32.4605 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 10:19:41.6826 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.6826 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 10:19:41.7004 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.7004 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 10:19:41.7172 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.7172 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.7385 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.7458 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.7458 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.7616 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.7616 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.7753 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.8044 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.8044 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.8223 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.8223 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:41.8393 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:41.8393 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:45.3813 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:45.3904 INFO Query: SELECT * FROM Indicators 
+2018-06-25 10:19:45.4768 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:45.4924 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:19:45.5300 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:19:45.5451 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:45.2810 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 10:25:45.4500 INFO Initialising Components...
+2018-06-25 10:25:48.4786 INFO Checking Database Connection...
+2018-06-25 10:25:48.5399 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:51.6914 INFO Checking License...
+2018-06-25 10:25:51.7563 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:51.7781 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:51.8652 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 10:25:53.6029 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:53.6029 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 10:25:58.9516 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:58.9656 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 10:25:58.9981 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.0260 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 10:25:59.0486 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.0560 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.0808 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.0985 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.1189 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.1189 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.1462 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.1568 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.2405 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.2510 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.2682 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.2785 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:25:59.2965 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:25:59.3067 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:26:02.5957 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:26:02.6015 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:26:06.0911 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:26:06.0911 INFO Query: SELECT * FROM Indicators 
+2018-06-25 10:26:06.1161 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:26:06.1161 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:26:06.1389 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:26:06.1483 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:43:53.5924 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 10:43:54.6645 INFO Initialising Components...
+2018-06-25 10:43:57.7353 INFO Checking Database Connection...
+2018-06-25 10:43:58.9263 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:44:03.2415 INFO Checking License...
+2018-06-25 10:44:03.3522 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:44:03.4044 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:44:04.1050 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 10:44:07.1001 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:44:07.1071 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 10:45:05.0010 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0134 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 10:45:05.0285 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0285 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 10:45:05.0412 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0412 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.0584 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0584 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.0786 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0786 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.0907 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.0907 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.2770 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.2881 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.2881 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.3067 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:05.3228 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:05.3228 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:10.3381 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:10.3381 INFO Query: SELECT * FROM Indicators 
+2018-06-25 10:45:10.3820 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:10.3820 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:45:21.5541 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:45:21.5541 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:44.7163 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 10:51:44.8472 INFO Initialising Components...
+2018-06-25 10:51:47.8732 INFO Checking Database Connection...
+2018-06-25 10:51:47.9452 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:51.0716 INFO Checking License...
+2018-06-25 10:51:51.1539 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:51.1685 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:51.2859 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 10:51:52.6288 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:52.6953 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 10:51:57.4402 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.5132 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 10:51:57.5245 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.5245 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 10:51:57.5466 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.5466 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.5687 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.5763 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.5906 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.5906 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.6076 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.6164 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.6535 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.6642 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.6642 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.6868 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:51:57.6968 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:51:57.6968 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:52:00.4995 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:52:00.4995 INFO Query: SELECT * FROM Indicators 
+2018-06-25 10:52:00.5163 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:52:00.5222 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 10:58:00.6556 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 10:58:00.7371 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:08:27.9910 INFO Finishing Initialisation...
+2018-06-25 11:13:38.0785 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 11:13:38.2790 INFO Initialising Components...
+2018-06-25 11:13:41.3078 INFO Checking Database Connection...
+2018-06-25 11:13:41.5043 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:13:44.8597 INFO Checking License...
+2018-06-25 11:13:44.8814 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:13:44.9042 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:13:45.0963 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 11:19:51.7982 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:51.8770 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 11:19:56.9424 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:56.9505 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 11:19:56.9605 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:56.9605 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 11:19:56.9798 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:56.9798 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.0000 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.0092 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.0092 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.0239 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.0239 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.0387 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.0776 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.0776 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.1002 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.1097 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:19:57.1246 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:19:57.1418 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:20:01.0217 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:20:01.0394 INFO Query: SELECT * FROM Indicators 
+2018-06-25 11:20:01.0715 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:20:01.0913 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:20:08.9560 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:20:08.9808 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:31:41.9700 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 11:31:42.1190 INFO Initialising Components...
+2018-06-25 11:31:45.1441 INFO Checking Database Connection...
+2018-06-25 11:31:45.2591 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:48.3829 INFO Checking License...
+2018-06-25 11:31:48.6436 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:48.6580 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:31:48.7102 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 11:31:54.7591 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:54.8337 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 11:31:59.9336 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:59.9336 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 11:31:59.9517 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:59.9517 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 11:31:59.9659 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:59.9659 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:31:59.9924 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:31:59.9924 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:00.0108 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:00.0108 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:00.0319 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:00.0379 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:00.0754 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:00.0754 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:00.0907 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:00.0907 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:00.1084 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:00.1084 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:03.1365 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:03.1365 INFO Query: SELECT * FROM Indicators 
+2018-06-25 11:32:03.2084 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:03.2251 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:32:16.2018 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:32:16.2215 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:27.9027 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 11:34:28.0310 INFO Initialising Components...
+2018-06-25 11:34:31.0510 INFO Checking Database Connection...
+2018-06-25 11:34:31.0788 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:34.1863 INFO Checking License...
+2018-06-25 11:34:34.2569 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:34.2569 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:34.3278 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 11:34:37.5180 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:37.5951 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 11:34:42.2778 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.2778 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 11:34:42.2959 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.3049 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 11:34:42.3049 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.3239 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.3440 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.3540 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.3721 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.3721 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.3881 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.3881 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.4368 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.4368 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.4518 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.4518 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:42.4651 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:42.4651 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:48.5914 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:48.5914 INFO Query: SELECT * FROM Indicators 
+2018-06-25 11:34:48.6065 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:48.6065 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:34:48.6242 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:34:48.6242 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:37:11.8734 INFO Finishing Initialisation...
+2018-06-25 11:40:13.2093 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 11:40:13.3515 INFO Initialising Components...
+2018-06-25 11:40:16.3737 INFO Checking Database Connection...
+2018-06-25 11:40:16.7865 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:19.9102 INFO Checking License...
+2018-06-25 11:40:20.0129 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:20.0306 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:20.1193 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 11:40:22.8307 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:22.9048 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 11:40:27.4034 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4034 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 11:40:27.4207 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4286 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 11:40:27.4286 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4463 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.4463 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4684 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.4815 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4815 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.4955 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.4955 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.5376 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.5451 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.5542 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.5542 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:27.5717 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:27.5717 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:34.1035 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:34.1565 INFO Query: SELECT * FROM Indicators 
+2018-06-25 11:40:34.1771 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:34.1902 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:40:34.2182 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 11:40:34.2282 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 11:41:17.4121 INFO Finishing Initialisation...
+2018-06-25 12:14:22.9093 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 12:14:24.0347 INFO Initialising Components...
+2018-06-25 12:14:27.6159 INFO Checking Database Connection...
+2018-06-25 12:14:27.7049 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:30.8949 INFO Checking License...
+2018-06-25 12:14:30.9277 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:30.9527 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:31.0857 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 12:14:35.1022 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:35.1724 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 12:14:40.5222 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.5293 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 12:14:40.5404 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.5404 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 12:14:40.5542 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.5542 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.5793 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.5897 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.6008 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.6008 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.6008 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.6230 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.6543 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.6657 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.6657 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.6801 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:40.6801 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:40.6966 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:44.2800 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:44.3493 INFO Query: SELECT * FROM Indicators 
+2018-06-25 12:14:44.3826 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:44.4106 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:14:44.4441 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:14:44.4513 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:15:57.4049 INFO Finishing Initialisation...
+2018-06-25 12:33:29.2773 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 12:33:29.4217 INFO Initialising Components...
+2018-06-25 12:33:32.4479 INFO Checking Database Connection...
+2018-06-25 12:33:32.5342 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:35.7236 INFO Checking License...
+2018-06-25 12:33:35.8206 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:35.8397 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:35.9294 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 12:33:37.9897 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:37.9957 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 12:33:43.1982 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.1982 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 12:33:43.2174 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.2258 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 12:33:43.2258 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.2258 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.2519 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.2624 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.2624 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.2765 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.2765 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.2885 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.3221 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.3221 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.3427 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.3427 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:43.3603 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:43.3603 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:49.9309 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:49.9309 INFO Query: SELECT * FROM Indicators 
+2018-06-25 12:33:49.9578 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:49.9633 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:33:49.9764 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:33:49.9764 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:34:41.1267 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:34:41.1376 INFO Query: SELECT * FROM Indicators 
+2018-06-25 12:34:41.1478 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:34:41.1478 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:34:41.1739 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:34:41.1819 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:37:40.5299 INFO Finishing Initialisation...
+2018-06-25 12:58:33.8660 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 12:58:34.8416 INFO Initialising Components...
+2018-06-25 12:58:37.9454 INFO Checking Database Connection...
+2018-06-25 12:58:38.3002 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:43.2817 INFO Checking License...
+2018-06-25 12:58:43.4072 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:43.6573 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:46.3031 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 12:58:50.2700 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:50.3605 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 12:58:56.3710 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.3910 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 12:58:56.4010 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.4010 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 12:58:56.4161 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.4161 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.4311 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.4311 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.4556 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.4606 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.4606 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.4762 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.5860 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.5860 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.6010 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.6010 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:58:56.6160 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:58:56.6160 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:59:01.3954 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:59:01.4584 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:59:06.7920 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:59:06.7920 INFO Query: SELECT * FROM Indicators 
+2018-06-25 12:59:06.8396 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:59:06.8546 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:59:06.8856 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 12:59:06.8856 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 12:59:47.5192 INFO Finishing Initialisation...
+2018-06-25 13:05:02.1369 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 13:05:02.3187 INFO Initialising Components...
+2018-06-25 13:05:05.3428 INFO Checking Database Connection...
+2018-06-25 13:05:05.4179 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:08.5201 INFO Checking License...
+2018-06-25 13:05:08.5806 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:08.5856 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:08.6182 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 13:05:11.2519 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:11.3508 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 13:05:17.7191 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.7392 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 13:05:17.7542 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.7592 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 13:05:17.7592 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.7742 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.7892 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.8112 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.8197 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.8197 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.8197 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.8443 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.8793 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.8843 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.8843 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.8843 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:17.9043 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:17.9043 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:22.2078 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:22.2830 INFO Query: SELECT * FROM Indicators 
+2018-06-25 13:05:22.2930 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:22.2930 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:22.3130 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:22.3130 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:50.9804 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:51.0002 INFO Query: SELECT * From Indicators Where ID =1003
+2018-06-25 13:05:51.0252 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:58.9066 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:58.9066 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:58.9216 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:58.9216 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:05:58.9366 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:05:58.9366 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:12.9310 INFO Finishing Initialisation...
+2018-06-25 13:06:19.7811 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 13:06:19.9205 INFO Initialising Components...
+2018-06-25 13:06:22.9459 INFO Checking Database Connection...
+2018-06-25 13:06:22.9784 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:26.0711 INFO Checking License...
+2018-06-25 13:06:26.1017 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:26.1167 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:26.1617 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 13:06:30.2059 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:30.2960 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 13:06:35.2835 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.2895 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 13:06:35.2895 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.2895 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 13:06:35.3080 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.3080 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.3330 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.3430 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.3530 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.3530 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.3680 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.3680 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.4080 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.4131 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.4131 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.4131 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:35.4331 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:35.4331 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:38.1660 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:38.2561 INFO Query: SELECT * FROM Indicators 
+2018-06-25 13:06:38.2761 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:38.2896 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:06:38.2896 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:06:38.3061 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:07:48.3593 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:07:48.4945 INFO Query: SELECT * FROM Indicators 
+2018-06-25 13:07:48.4945 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:07:48.5105 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:07:48.5226 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:07:48.5226 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:08:06.5164 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:08:06.5997 INFO Query: SELECT * From Indicators Where ID =1003
+2018-06-25 13:08:06.6353 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:08:16.7021 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:08:16.7422 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:08:16.7422 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:08:16.7572 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:08:16.7572 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:08:16.7732 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:30:59.1280 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 13:30:59.2810 INFO Initialising Components...
+2018-06-25 13:31:02.3061 INFO Checking Database Connection...
+2018-06-25 13:31:02.3463 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:05.4633 INFO Checking License...
+2018-06-25 13:31:05.4933 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:05.4933 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:05.5426 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 13:31:07.3020 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:07.3069 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 13:31:12.5182 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5245 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 13:31:12.5245 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5395 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 13:31:12.5395 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5395 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.5595 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5695 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.5695 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5695 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.5945 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.5945 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.6297 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.6346 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.6496 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.6496 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:12.6496 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:12.6696 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:59.4195 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:59.4195 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:59.6100 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:59.6100 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:31:59.6350 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:59.6350 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 13:31:59.6500 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:59.6500 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 13:31:59.7004 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:31:59.7103 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:01.6781 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:01.6851 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 13:32:26.9528 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:26.9528 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2018-06-25 13:32:26.9639 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:26.9639 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =28
+2018-06-25 13:32:30.3222 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:30.3222 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:30.3353 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 13:32:31.7661 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:31.7661 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 13:32:31.7799 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:33.4698 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:33.4698 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 13:32:33.4819 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.5889 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.5889 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:34.6039 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.6039 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:34.6239 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.6239 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:34.6439 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.6489 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:34.6664 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:34.6664 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:32:49.1096 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:49.1196 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 13:32:49.1196 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:32:49.1346 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:10.4634 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:10.4634 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:16.0200 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:16.0260 INFO Query: SELECT * FROM Indicators 
+2018-06-25 13:33:16.0410 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:16.0410 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:16.0591 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:16.0591 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:25.4924 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:25.4924 INFO Query: SELECT * From Indicators Where ID =1003
+2018-06-25 13:33:25.5124 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:33.5371 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:33.5421 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:33.5581 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:33.5581 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:33.5726 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:33.5726 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:37.0668 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:37.0723 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:37.1093 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:37.1093 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:37.1243 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:37.1243 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 13:33:37.1343 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:37.1343 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 13:33:37.1494 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:37.1494 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:38.3153 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:38.3253 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 13:33:56.0347 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:56.0396 INFO Query: SELECT * FROM Weighment Where ReferenceNumber ='1'
+2018-06-25 13:33:56.0396 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:56.0596 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =29
+2018-06-25 13:33:57.7225 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:57.7290 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:33:57.7290 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 13:33:59.1022 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:33:59.1022 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 13:33:59.1172 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.1731 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.1731 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 13:34:01.1832 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.2597 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.2597 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:34:01.2737 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.2737 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:34:01.2887 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.2887 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:34:01.3099 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:01.3099 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 13:34:04.0587 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:04.0718 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 13:34:43.9237 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 13:34:43.9337 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 14:17:55.0216 INFO Finishing Initialisation...
+2018-06-25 15:33:00.3048 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 15:33:00.9535 INFO Initialising Components...
+2018-06-25 15:33:04.0717 INFO Checking Database Connection...
+2018-06-25 15:33:04.2878 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:07.8068 INFO Checking License...
+2018-06-25 15:33:07.9718 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:07.9918 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:08.2873 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 15:33:11.8349 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:11.9507 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 15:33:22.4917 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.5167 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 15:33:22.5466 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.5466 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 15:33:22.5641 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.5701 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.5701 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.5865 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.5865 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.6015 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.6015 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.6166 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.7560 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.7621 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.7621 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.7761 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:22.7761 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:33:22.7761 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:33:38.5193 INFO Finishing Initialisation...
+2018-06-25 15:38:57.0594 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 15:38:57.4637 INFO Initialising Components...
+2018-06-25 15:39:00.4873 INFO Checking Database Connection...
+2018-06-25 15:39:00.6134 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:03.7776 INFO Checking License...
+2018-06-25 15:39:03.8878 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:03.8979 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:03.9373 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 15:39:06.0565 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:06.1069 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 15:39:11.8188 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:11.9190 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 15:39:11.9451 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:11.9601 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 15:39:11.9601 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:11.9851 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0001 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0001 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0201 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0252 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0252 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0252 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0702 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0702 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0702 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0852 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:12.0852 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:12.0852 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:16.3648 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:16.3898 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:16.5601 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:16.5701 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:16.5851 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:16.5851 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 15:39:16.6052 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:16.6052 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 15:39:16.6568 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:16.6568 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:18.3989 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:18.3989 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 15:39:28.7846 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:28.8713 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:28.9219 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:28.9219 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 15:39:28.9369 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:28.9369 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 15:39:28.9469 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:28.9469 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 15:39:28.9619 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 15:39:28.9619 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:09:41.9804 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:09:42.1570 INFO Initialising Components...
+2018-06-25 16:09:45.1806 INFO Checking Database Connection...
+2018-06-25 16:09:45.3468 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:09:48.6374 INFO Checking License...
+2018-06-25 16:09:48.7075 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:09:48.7125 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:09:48.7475 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:11:24.7707 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:11:24.8458 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:20:35.0047 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.0599 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 16:20:35.0599 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.0697 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 16:20:35.0697 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.0857 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.0857 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.0857 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.1143 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.1243 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.1243 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.1343 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.2246 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.2296 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.2296 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.2296 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:35.2496 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:35.2496 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:37.3317 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:37.3567 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:37.5067 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:37.5067 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:37.5468 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:37.5568 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:20:37.5768 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:37.5768 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:20:37.6323 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:37.6323 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:20:39.7563 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:20:39.7613 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:22:19.8496 INFO Finishing Initialisation...
+2018-06-25 16:24:50.4872 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:24:50.6652 INFO Initialising Components...
+2018-06-25 16:24:53.6913 INFO Checking Database Connection...
+2018-06-25 16:24:53.7154 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:24:56.8387 INFO Checking License...
+2018-06-25 16:24:56.8635 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:24:56.8786 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:24:56.9136 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:25:30.0552 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:30.1331 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:25:35.2332 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.2432 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 16:25:35.2432 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.2432 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 16:25:35.2612 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.2612 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.2763 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.2763 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.2963 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.2963 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.3063 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.3063 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.3493 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.3514 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.3514 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.3664 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:35.3664 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:35.3664 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:37.9206 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:38.0056 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:38.1260 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:38.1260 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:38.1411 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:38.1486 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:25:38.1486 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:38.1486 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:25:38.1712 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:38.1712 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:25:39.8773 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:25:39.8823 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:26:43.9238 INFO Finishing Initialisation...
+2018-06-25 16:51:54.3096 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:51:54.5132 INFO Initialising Components...
+2018-06-25 16:51:57.5389 INFO Checking Database Connection...
+2018-06-25 16:51:57.6125 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:00.7135 INFO Checking License...
+2018-06-25 16:52:00.7351 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:00.7501 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:00.7901 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:52:03.6161 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:03.6161 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:52:08.5063 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5113 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 16:52:08.5113 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5263 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 16:52:08.5263 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5413 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.5413 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5613 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.5779 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5779 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.5914 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.5914 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.6314 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.6364 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.6364 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.6514 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:08.6514 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:08.6514 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:11.0081 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:11.0081 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:11.0582 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:11.0582 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:11.0753 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:11.0753 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:52:11.0883 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:11.0883 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:52:11.0883 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:11.1033 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:52:12.7949 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:12.7949 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:52:47.4132 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:47.5388 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =30
+2018-06-25 16:52:53.7464 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:53.7464 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =30
+2018-06-25 16:52:53.7663 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:53.7663 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =30
+2018-06-25 16:52:54.7947 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:52:54.7947 INFO Query: SELECT * FROM Weighment as w  Where w.TicketNumber =30
+2018-06-25 16:53:16.5245 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:16.5245 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:53:16.5595 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:16.5595 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:53:16.5761 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:16.5761 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:53:16.5881 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:16.5881 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:53:16.5881 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:16.6051 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:53:18.2691 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:53:18.2741 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:53:23.9887 INFO Finishing Initialisation...
+2018-06-25 16:55:18.8286 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:55:18.9534 INFO Initialising Components...
+2018-06-25 16:55:21.9783 INFO Checking Database Connection...
+2018-06-25 16:55:22.0131 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:25.1265 INFO Checking License...
+2018-06-25 16:55:25.1416 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:25.1515 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:25.1916 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:55:37.1919 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:37.2009 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:55:42.4217 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.4302 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 16:55:42.4302 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.4486 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 16:55:42.4486 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.4604 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.4793 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.4793 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.5015 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.5076 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.5076 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.5235 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.5870 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.5870 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.6064 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.6064 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:42.6265 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:42.6334 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:45.2914 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:45.2914 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:45.3368 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:45.3368 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:45.3585 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:45.3585 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:55:45.3748 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:45.3748 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:55:45.3921 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:45.3997 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:55:47.1710 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:55:47.1710 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:56:37.0665 INFO Finishing Initialisation...
+2018-06-25 16:57:06.5935 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:57:06.8328 INFO Initialising Components...
+2018-06-25 16:57:09.8643 INFO Checking Database Connection...
+2018-06-25 16:57:09.9015 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:13.1058 INFO Checking License...
+2018-06-25 16:57:13.1183 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:13.1183 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:13.1855 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:57:15.6417 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:15.6482 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:57:20.2232 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.2283 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 16:57:20.2283 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.2475 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 16:57:20.2475 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.3188 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.3575 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.3822 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.4153 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.4321 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.4519 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.4696 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.5873 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.6579 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.6900 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.7100 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:20.7446 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:20.7712 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:23.8252 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:23.8585 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:23.9058 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:23.9058 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:23.9244 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:23.9306 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 16:57:23.9306 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:23.9487 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 16:57:23.9487 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:23.9682 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:25.7808 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:25.7879 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:57:54.3666 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:54.3666 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:57:54.3888 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:57:56.5777 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:56.6749 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 16:57:56.7054 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:59.1371 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:59.1371 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 16:57:59.1555 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:57:59.1555 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:59:48.9976 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 16:59:49.1294 INFO Initialising Components...
+2018-06-25 16:59:52.1558 INFO Checking Database Connection...
+2018-06-25 16:59:52.1869 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:59:55.2943 INFO Checking License...
+2018-06-25 16:59:55.3448 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:59:55.3522 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 16:59:55.3954 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 16:59:57.9290 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 16:59:58.0120 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:00:02.9423 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:02.9646 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:00:02.9789 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:02.9789 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:00:02.9936 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:02.9936 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.0134 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.0226 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.0226 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.0384 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.0384 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.0537 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.0898 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.0898 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.1075 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.1075 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:03.1227 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:03.1227 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:05.4532 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:05.5250 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:05.7060 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:05.7168 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:05.7349 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:05.7463 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:00:05.7675 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:05.7881 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:00:05.8205 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:05.8500 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:08.3381 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:08.3381 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:00:37.0581 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:37.0692 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:37.0954 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:00:38.3940 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:38.4388 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:00:38.4508 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:38.6484 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:00:38.6664 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:00:52.2714 INFO Finishing Initialisation...
+2018-06-25 17:01:51.0529 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 17:01:51.2033 INFO Initialising Components...
+2018-06-25 17:01:54.2286 INFO Checking Database Connection...
+2018-06-25 17:01:54.2897 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:01:57.4148 INFO Checking License...
+2018-06-25 17:01:57.4148 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:01:57.4315 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:01:57.4736 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:01:59.5294 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:01:59.5850 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:02:04.4304 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.4304 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:02:04.4474 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.4474 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:02:04.4639 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.4639 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.4865 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.4958 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.5088 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.5088 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.5239 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.5239 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.5686 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.5751 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.5900 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.5900 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:04.6106 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:04.6188 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:06.6645 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:06.7078 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:06.8262 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:06.8405 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:06.8775 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:06.8954 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:02:06.9192 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:06.9323 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:02:06.9456 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:06.9456 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:08.5146 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:08.5146 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:02:27.3759 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:27.4690 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:02:27.5017 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:02:28.7296 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:28.8009 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:02:28.8324 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:29.0827 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:02:29.1190 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:27.2894 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 17:03:27.4589 INFO Initialising Components...
+2018-06-25 17:03:30.4967 INFO Checking Database Connection...
+2018-06-25 17:03:30.6051 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:33.7358 INFO Checking License...
+2018-06-25 17:03:33.8058 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:33.8220 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:33.9106 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:03:35.2487 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:35.3365 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:03:40.2316 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.2316 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:03:40.2504 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.2504 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:03:40.2635 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.2746 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.2915 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.2915 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.3109 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.3109 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.3263 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.3263 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.3658 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.3743 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.3849 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.3849 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:40.4118 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:40.4207 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:43.0251 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:43.0251 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:43.1197 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:43.1197 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:43.1368 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:43.1368 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:03:43.1545 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:43.1545 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:03:43.1689 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:43.1689 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:03:44.7890 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:03:44.7890 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:04:03.6917 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:04:03.8090 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:04:03.8432 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:06:10.3533 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:06:10.3533 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:06:10.3725 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:06:10.6526 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:06:10.6778 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:07:26.7689 INFO Finishing Initialisation...
+2018-06-25 17:14:04.4648 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 17:14:04.5917 INFO Initialising Components...
+2018-06-25 17:14:07.6190 INFO Checking Database Connection...
+2018-06-25 17:14:07.6518 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:10.7651 INFO Checking License...
+2018-06-25 17:14:10.7726 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:10.7726 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:10.8136 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:14:22.9766 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:22.9766 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:14:31.7748 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.7748 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:14:31.7920 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.7920 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:14:31.8065 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.8065 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.8311 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.8416 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.8416 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.8557 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.8557 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.8668 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.9056 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.9144 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.9144 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.9302 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:14:31.9302 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:14:31.9469 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:15:36.5451 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:36.5561 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:15:36.6097 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:36.6097 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:15:36.6299 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:36.6349 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:15:36.6349 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:36.6547 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:15:36.6682 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:36.6682 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:15:38.0543 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:38.0543 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:15:48.5835 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:48.6482 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:15:48.6903 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:15:49.8490 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:49.8546 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:15:49.8546 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:50.0893 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:15:50.1575 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:16:03.4268 INFO Finishing Initialisation...
+2018-06-25 17:17:16.8065 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 17:17:16.9390 INFO Initialising Components...
+2018-06-25 17:17:19.9656 INFO Checking Database Connection...
+2018-06-25 17:17:19.9901 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:23.1233 INFO Checking License...
+2018-06-25 17:17:23.1837 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:23.2053 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:23.2792 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:17:36.7682 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:36.8561 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:17:41.5302 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.5937 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:17:41.6181 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.6426 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:17:41.6720 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.6956 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.7244 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.7445 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.7653 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.7740 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.7740 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.7932 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.8911 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.9116 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.9342 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.9342 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:41.9562 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:41.9637 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:44.0012 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:44.0091 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:44.1479 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:44.1479 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:44.1814 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:44.1976 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:17:44.2233 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:44.2447 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:17:44.2795 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:44.3005 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:17:46.5440 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:17:46.5440 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:18:00.8231 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:18:00.9074 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:18:00.9401 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:18:02.3280 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:18:02.3360 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:18:02.3360 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:18:27.8729 INFO Finishing Initialisation...
+2018-06-25 17:24:07.6773 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 17:24:07.8094 INFO Initialising Components...
+2018-06-25 17:24:10.8298 INFO Checking Database Connection...
+2018-06-25 17:24:10.8922 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:14.0072 INFO Checking License...
+2018-06-25 17:24:14.0072 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:14.0297 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:14.0687 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:24:17.5779 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:17.5779 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:24:22.2929 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.2929 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 17:24:22.3123 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.3123 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 17:24:22.3298 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.3368 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.3368 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.3558 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.3667 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.3667 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.3667 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.3857 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.4199 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.4199 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.4348 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.4348 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:22.4873 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:22.5038 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:25.0747 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:25.0747 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:25.1284 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:25.1366 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:25.1500 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:25.1500 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 17:24:25.1666 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:25.1666 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 17:24:25.1805 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:25.1805 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:26.5726 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:26.5726 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 17:24:43.4233 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:43.4313 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 17:24:43.4313 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 17:24:44.7858 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:24:44.7963 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 17:24:44.8088 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 17:25:01.6626 INFO Finishing Initialisation...
+2018-06-25 18:02:33.1171 INFO Database file location: D:\IBTS\InProgress\WeighPot\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2018-06-25 18:02:33.5653 INFO Initialising Components...
+2018-06-25 18:02:36.7293 INFO Checking Database Connection...
+2018-06-25 18:02:37.2539 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:40.9094 INFO Checking License...
+2018-06-25 18:02:40.9821 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:40.9962 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:41.2059 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 18:02:42.7700 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:42.8773 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 18:02:47.1814 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.1814 INFO Query: SELECT * FROM User WHERE LoginId = 'admin' AND Password = 'nTndiRsXQEGzSIVXQh+uD41VHh9hJyVxfYIL27ERUw8='
+2018-06-25 18:02:47.2068 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.2154 INFO Query: SELECT * FROM SecurityRoleDetail WHERE RoleId = 1
+2018-06-25 18:02:47.2154 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.2294 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.2449 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.2449 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.2638 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.2638 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.2757 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.2757 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.3542 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.3542 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.3768 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.3886 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:02:47.4089 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:02:47.4202 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:03:04.4113 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:04.5082 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:03:04.7513 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:04.7668 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:03:04.7924 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:04.8104 INFO Query: SELECT * FROM Client ORDER BY Name
+2018-06-25 18:03:04.8759 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:04.9013 INFO Query: SELECT * FROM Product ORDER BY Name
+2018-06-25 18:03:04.9889 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:05.0097 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:03:06.9552 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:07.0741 INFO Query: SELECT Max(TicketNumber) AS TicketNumber,Id FROM Weighment 
+2018-06-25 18:03:21.4283 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:21.4386 INFO Query: SELECT * FROM SystemSetting
+2018-06-25 18:03:21.4542 INFO Error: not find any rockey2 : -1609564149
+2018-06-25 18:03:22.7295 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:22.7295 INFO Query: SELECT Count(*)  AS RecordCount FROM Weighment 
+2018-06-25 18:03:22.7455 INFO Database connection string : Data Source=|DataDirectory|\WeighPot.db3;Version=3;
+2018-06-25 18:03:34.3655 INFO Finishing Initialisation...

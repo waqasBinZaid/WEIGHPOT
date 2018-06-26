@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ScaleSoftModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=E:\Zaib\personal\Projects\itwhiz.com\ITWhiz.ScaleSoft\IWeigh\ScaleSoft;Password=welcome" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ScaleSoftModelStoreContainer" />
+</Schema>

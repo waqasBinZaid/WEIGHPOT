@@ -1,0 +1,1 @@
+NetRockey4ND depends on static library wsock32.lib and netapi32.lib

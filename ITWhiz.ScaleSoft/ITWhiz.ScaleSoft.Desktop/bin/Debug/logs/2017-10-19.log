@@ -1,0 +1,822 @@
+2017-10-19 00:04:56.5318 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:04:57.3950 INFO Initialising Components...
+2017-10-19 00:05:00.6050 INFO Checking Database Connection...
+2017-10-19 00:05:01.4366 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:06.4228 INFO Checking License...
+2017-10-19 00:05:06.4228 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:09.7086 INFO Sucess: find rockey2 : 0
+2017-10-19 00:05:09.7398 INFO Error: can not open the rockey2 : -1609564159
+2017-10-19 00:05:17.2176 INFO Finishing Initialisation...
+2017-10-19 00:05:17.2176 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:17.2392 INFO Sucess: find rockey2 : 0
+2017-10-19 00:05:17.2548 INFO Error: can not open the rockey2 : -1609564159
+2017-10-19 00:05:22.0599 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:22.5443 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:22.5599 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:29.4696 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:29.5890 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:29.5890 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:29.6228 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:58.3161 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:05:58.6851 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:06:00.2176 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:06:08.5922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:06:08.5922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:03.7329 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:03.9857 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:04.0013 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:29.6212 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:29.9556 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:30.1205 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:35.9924 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:15:36.0080 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:04.6080 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:23:05.4742 INFO Initialising Components...
+2017-10-19 00:23:09.3540 INFO Checking Database Connection...
+2017-10-19 00:23:09.6543 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:14.5205 INFO Checking License...
+2017-10-19 00:23:14.5205 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:19.3370 INFO Sucess: find rockey2 : 1
+2017-10-19 00:23:19.3370 INFO Sucess: open rockey2
+2017-10-19 00:23:19.3970 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:23:22.4064 INFO Finishing Initialisation...
+2017-10-19 00:23:22.4064 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:22.4218 INFO Sucess: find rockey2 : 1
+2017-10-19 00:23:22.4375 INFO Sucess: open rockey2
+2017-10-19 00:23:22.4911 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:23:25.2237 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:25.2870 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:25.2926 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:32.4457 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:32.5460 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:32.5616 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:23:32.5994 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:24:05.0473 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:24:05.3437 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:24:06.8489 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:24:13.8107 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:24:13.8263 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:29:58.3767 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:29:59.3631 INFO Initialising Components...
+2017-10-19 00:30:02.7284 INFO Checking Database Connection...
+2017-10-19 00:30:03.1826 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:07.4174 INFO Checking License...
+2017-10-19 00:30:07.4329 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:11.6173 INFO Sucess: find rockey2 : 1
+2017-10-19 00:30:11.6173 INFO Sucess: open rockey2
+2017-10-19 00:30:11.6746 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:30:14.6929 INFO Finishing Initialisation...
+2017-10-19 00:30:14.6929 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:14.7086 INFO Sucess: find rockey2 : 1
+2017-10-19 00:30:14.7086 INFO Sucess: open rockey2
+2017-10-19 00:30:14.7611 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:30:17.8094 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:17.8094 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:17.8250 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:26.0050 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:51.3038 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:51.4192 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:51.4192 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:30:51.4817 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:13.5447 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:21.3381 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:25.8776 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:25.9778 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:25.9778 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:40.3394 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:46.6622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:54.1513 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:54.2897 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:31:54.2897 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:32:10.2560 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:32:16.3026 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:02.2864 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:02.3374 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:02.3444 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:32.6403 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:34:32.9141 INFO Initialising Components...
+2017-10-19 00:34:36.0135 INFO Checking Database Connection...
+2017-10-19 00:34:36.1614 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:39.4603 INFO Checking License...
+2017-10-19 00:34:39.4664 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:40.0301 INFO Sucess: find rockey2 : 1
+2017-10-19 00:34:40.0301 INFO Sucess: open rockey2
+2017-10-19 00:34:40.0863 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:34:43.0928 INFO Finishing Initialisation...
+2017-10-19 00:34:43.1084 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:43.1380 INFO Sucess: find rockey2 : 1
+2017-10-19 00:34:43.1380 INFO Sucess: open rockey2
+2017-10-19 00:34:43.2081 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:34:45.3058 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:45.3163 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:45.3248 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:49.9903 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:50.0214 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:50.0279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:34:50.0518 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:02.9582 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:12.2244 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:15.0707 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:16.6253 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:17.8943 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:21.0545 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:28.4622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:28.4692 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:28.5401 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:28.5531 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:42.9622 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:42.9732 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:42.9803 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:47.9312 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:47.9403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:35:47.9403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:41:58.3989 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:41:58.6406 INFO Initialising Components...
+2017-10-19 00:42:01.7245 INFO Checking Database Connection...
+2017-10-19 00:42:01.7660 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:04.8575 INFO Checking License...
+2017-10-19 00:42:04.8575 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:05.2313 INFO Sucess: find rockey2 : 1
+2017-10-19 00:42:05.2313 INFO Sucess: open rockey2
+2017-10-19 00:42:05.2928 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:42:08.2990 INFO Finishing Initialisation...
+2017-10-19 00:42:08.3111 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:08.3293 INFO Sucess: find rockey2 : 1
+2017-10-19 00:42:08.3293 INFO Sucess: open rockey2
+2017-10-19 00:42:08.3943 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:42:10.4820 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:10.4820 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:10.5010 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:16.9101 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:25.2111 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:29.1140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:37.2925 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:37.3225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:37.3296 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:37.3516 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:51.9435 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:42:58.7145 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:43:02.7276 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:43:02.7356 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:43:02.7356 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:43:02.7548 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:43:18.0603 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:06.1653 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:11.4991 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:11.4991 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:11.5176 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:18.4705 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:21.3127 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:22.3055 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:23.3790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:27.4279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:27.4359 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:27.4359 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:33.0161 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:43.3790 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:45.7677 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:50.8916 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:50.8916 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:44:50.9135 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:37.2035 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 00:47:37.4512 INFO Initialising Components...
+2017-10-19 00:47:40.5761 INFO Checking Database Connection...
+2017-10-19 00:47:40.6358 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:43.7465 INFO Checking License...
+2017-10-19 00:47:43.7706 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:44.1261 INFO Sucess: find rockey2 : 1
+2017-10-19 00:47:44.1261 INFO Sucess: open rockey2
+2017-10-19 00:47:44.1846 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:47:47.1928 INFO Finishing Initialisation...
+2017-10-19 00:47:47.2140 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:47.2413 INFO Sucess: find rockey2 : 1
+2017-10-19 00:47:47.2531 INFO Sucess: open rockey2
+2017-10-19 00:47:47.3183 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 00:47:52.7377 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:52.7487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:52.7487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:59.0139 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:59.0470 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:59.0470 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:47:59.0775 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:48:13.9074 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:35.6699 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:43.0115 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:46.4399 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:50.2558 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:55.8458 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:55.8458 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:49:55.8608 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:09.3169 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:16.3345 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:21.2868 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:21.2979 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:21.3089 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:39.2149 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:50:49.9614 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:52:58.3523 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:54:00.8245 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:54:03.6987 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:54:06.2286 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:54:06.2376 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 00:54:06.2376 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:23.7662 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 01:08:24.0274 INFO Initialising Components...
+2017-10-19 01:08:27.2026 INFO Checking Database Connection...
+2017-10-19 01:08:27.2374 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:30.3386 INFO Checking License...
+2017-10-19 01:08:30.3431 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:30.7033 INFO Sucess: find rockey2 : 1
+2017-10-19 01:08:30.7192 INFO Sucess: open rockey2
+2017-10-19 01:08:30.7782 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:08:33.8114 INFO Finishing Initialisation...
+2017-10-19 01:08:33.8269 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:33.8491 INFO Sucess: find rockey2 : 1
+2017-10-19 01:08:33.8491 INFO Sucess: open rockey2
+2017-10-19 01:08:33.9116 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:08:49.0202 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:49.0358 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:49.0358 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:55.7922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:55.8295 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:55.8295 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:08:55.8608 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:04.6548 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:12.8789 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:21.3609 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:21.3765 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:21.3765 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:21.3922 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:34.6531 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:34.6753 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:09:34.6753 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:28.4432 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 01:15:28.7130 INFO Initialising Components...
+2017-10-19 01:15:31.8173 INFO Checking Database Connection...
+2017-10-19 01:15:31.9330 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:35.0269 INFO Checking License...
+2017-10-19 01:15:35.0947 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:35.4507 INFO Sucess: find rockey2 : 1
+2017-10-19 01:15:35.4507 INFO Sucess: open rockey2
+2017-10-19 01:15:35.5133 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:15:38.5427 INFO Finishing Initialisation...
+2017-10-19 01:15:38.6117 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:38.6272 INFO Sucess: find rockey2 : 1
+2017-10-19 01:15:38.6428 INFO Sucess: open rockey2
+2017-10-19 01:15:38.6958 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:15:41.5335 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:41.5713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:41.5713 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:44.3799 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:44.4424 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:44.4424 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:44.4580 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:52.9387 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:53.0079 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:15:53.0079 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:16:14.2910 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:16:14.3132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:16:14.3132 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:18:50.7386 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 01:18:51.0012 INFO Initialising Components...
+2017-10-19 01:18:54.1433 INFO Checking Database Connection...
+2017-10-19 01:18:54.1745 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:18:57.2784 INFO Checking License...
+2017-10-19 01:18:57.2984 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:18:57.6488 INFO Sucess: find rockey2 : 1
+2017-10-19 01:18:57.6647 INFO Sucess: open rockey2
+2017-10-19 01:18:57.7318 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:19:00.7638 INFO Finishing Initialisation...
+2017-10-19 01:19:00.7794 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:00.8011 INFO Sucess: find rockey2 : 1
+2017-10-19 01:19:00.8171 INFO Sucess: open rockey2
+2017-10-19 01:19:00.8641 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:19:04.5406 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:04.5562 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:04.5562 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:09.0745 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:09.1123 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:09.1123 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:09.1436 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:15.5548 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:15.5861 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:19:15.5861 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:07.7159 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 01:34:07.9956 INFO Initialising Components...
+2017-10-19 01:34:11.0912 INFO Checking Database Connection...
+2017-10-19 01:34:11.2127 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:14.3145 INFO Checking License...
+2017-10-19 01:34:14.3341 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:14.6667 INFO Sucess: find rockey2 : 1
+2017-10-19 01:34:14.6826 INFO Sucess: open rockey2
+2017-10-19 01:34:14.7341 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:34:17.7570 INFO Finishing Initialisation...
+2017-10-19 01:34:17.7724 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:17.7881 INFO Sucess: find rockey2 : 1
+2017-10-19 01:34:17.8037 INFO Sucess: open rockey2
+2017-10-19 01:34:17.8568 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 01:34:21.7085 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:21.7246 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:21.7307 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:24.1798 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:24.6646 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:24.6802 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:24.7115 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:28.4903 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:28.5595 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:28.5908 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:33.9264 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:33.9264 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:33.9465 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:37.3899 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:37.4368 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 01:34:37.4589 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:04.8935 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 02:31:05.5743 INFO Initialising Components...
+2017-10-19 02:31:08.7398 INFO Checking Database Connection...
+2017-10-19 02:31:08.8752 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:12.2134 INFO Checking License...
+2017-10-19 02:31:12.2797 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:12.6396 INFO Sucess: find rockey2 : 1
+2017-10-19 02:31:12.6554 INFO Sucess: open rockey2
+2017-10-19 02:31:12.7175 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 02:31:15.7378 INFO Finishing Initialisation...
+2017-10-19 02:31:15.7533 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:15.7690 INFO Sucess: find rockey2 : 1
+2017-10-19 02:31:15.7690 INFO Sucess: open rockey2
+2017-10-19 02:31:15.8220 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 02:31:24.1529 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:24.2527 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:24.2684 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:30.1225 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:30.1715 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:30.1715 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:30.1914 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:52.0403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:52.3403 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:52.7566 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:58.5503 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:31:58.5815 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:32:19.5497 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:32:19.6338 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:32:19.6514 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 02:32:25.1022 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:20.4011 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 03:03:20.6799 INFO Initialising Components...
+2017-10-19 03:03:23.7833 INFO Checking Database Connection...
+2017-10-19 03:03:23.8707 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:27.0664 INFO Checking License...
+2017-10-19 03:03:27.0874 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:27.3342 INFO Sucess: find rockey2 : 1
+2017-10-19 03:03:27.3402 INFO Sucess: open rockey2
+2017-10-19 03:03:27.4028 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:03:30.4187 INFO Finishing Initialisation...
+2017-10-19 03:03:30.4387 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:30.4659 INFO Sucess: find rockey2 : 1
+2017-10-19 03:03:30.4839 INFO Sucess: open rockey2
+2017-10-19 03:03:30.5423 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:03:34.5030 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:34.5133 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:34.5133 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:38.8493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:38.8759 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:38.8759 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:38.9062 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:03:58.7017 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:05:31.0363 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:08:39.4453 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 03:08:39.7144 INFO Initialising Components...
+2017-10-19 03:08:42.8451 INFO Checking Database Connection...
+2017-10-19 03:08:42.9076 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:08:46.0771 INFO Checking License...
+2017-10-19 03:08:46.0925 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:08:46.3395 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 03:12:22.5795 INFO Finishing Initialisation...
+2017-10-19 03:12:22.5795 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:12:22.6158 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 03:14:00.1171 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:14:00.1328 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:14:00.1328 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:16:43.5625 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:16:43.6785 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:16:43.7002 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:16:43.7849 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:11.8350 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:11.8506 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:11.8663 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:42.6924 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:42.9546 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:43.2550 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:51.0289 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:20:51.0289 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:21:23.4069 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:23:37.8377 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:23:37.8755 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:23:37.8755 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:23:44.4519 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:23:52.9143 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:25:20.2180 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:26:12.6231 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:27:49.3988 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:29:14.4247 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:29:58.6152 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:30:10.7697 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:30:19.5795 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:30:35.3830 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:31:35.4276 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:32:43.0052 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:33:27.3255 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:34:47.4938 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:02.2357 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 03:37:02.5023 INFO Initialising Components...
+2017-10-19 03:37:05.6319 INFO Checking Database Connection...
+2017-10-19 03:37:05.7026 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:08.8390 INFO Checking License...
+2017-10-19 03:37:08.8571 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:09.1692 INFO Sucess: find rockey2 : 1
+2017-10-19 03:37:09.1692 INFO Sucess: open rockey2
+2017-10-19 03:37:09.2359 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:37:12.2522 INFO Finishing Initialisation...
+2017-10-19 03:37:12.2613 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:12.2794 INFO Sucess: find rockey2 : 1
+2017-10-19 03:37:12.2794 INFO Sucess: open rockey2
+2017-10-19 03:37:12.3466 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:37:23.2835 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:23.2935 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:37:23.2935 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:34.6886 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:34.7265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:34.7265 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:34.7577 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:57.3830 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:57.6839 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:39:58.0045 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:40:06.7865 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:40:06.8177 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:56:23.0539 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 03:56:23.3095 INFO Initialising Components...
+2017-10-19 03:56:26.4230 INFO Checking Database Connection...
+2017-10-19 03:56:26.4971 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:56:29.6297 INFO Checking License...
+2017-10-19 03:56:29.6457 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:56:29.9186 INFO Sucess: find rockey2 : 1
+2017-10-19 03:56:29.9331 INFO Sucess: open rockey2
+2017-10-19 03:56:29.9960 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:56:33.0177 INFO Finishing Initialisation...
+2017-10-19 03:56:33.0323 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:56:33.0611 INFO Sucess: find rockey2 : 1
+2017-10-19 03:56:33.0760 INFO Sucess: open rockey2
+2017-10-19 03:56:33.1457 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 03:57:01.5714 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:01.5825 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:01.5905 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:05.3232 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:05.3493 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:05.3562 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:57:05.3789 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:59:31.8404 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:59:32.0910 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:59:32.3606 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:59:37.9343 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 03:59:37.9656 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:10:10.2213 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:21:46.2084 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 04:21:46.5148 INFO Initialising Components...
+2017-10-19 04:21:49.6280 INFO Checking Database Connection...
+2017-10-19 04:21:49.7061 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:21:52.8791 INFO Checking License...
+2017-10-19 04:21:52.8946 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:21:53.0947 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:22:14.6915 INFO Finishing Initialisation...
+2017-10-19 04:22:14.7635 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:22:14.7791 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:28:06.7825 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 04:28:07.0081 INFO Initialising Components...
+2017-10-19 04:28:10.1262 INFO Checking Database Connection...
+2017-10-19 04:28:10.1885 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:13.2941 INFO Checking License...
+2017-10-19 04:28:13.3146 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:13.5102 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:28:18.6379 INFO Finishing Initialisation...
+2017-10-19 04:28:18.6379 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:18.6535 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:28:48.5752 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 04:28:48.8380 INFO Initialising Components...
+2017-10-19 04:28:51.9423 INFO Checking Database Connection...
+2017-10-19 04:28:52.0053 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:55.1972 INFO Checking License...
+2017-10-19 04:28:55.2126 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:55.3972 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:28:59.9477 INFO Finishing Initialisation...
+2017-10-19 04:28:59.9477 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:28:59.9634 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:30:04.5990 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:30:04.6771 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:30:04.6771 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:30:53.9026 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 04:30:54.1503 INFO Initialising Components...
+2017-10-19 04:30:57.2565 INFO Checking Database Connection...
+2017-10-19 04:30:57.3410 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:31:00.4907 INFO Checking License...
+2017-10-19 04:31:00.5754 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:31:00.7755 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:31:06.7588 INFO Finishing Initialisation...
+2017-10-19 04:31:06.7629 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:31:06.7941 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 04:33:18.2037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:33:18.2406 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 04:33:18.2719 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:27.2321 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 05:51:27.5622 INFO Initialising Components...
+2017-10-19 05:51:30.6385 INFO Checking Database Connection...
+2017-10-19 05:51:30.6868 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:33.7759 INFO Checking License...
+2017-10-19 05:51:33.7958 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:34.0042 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 05:51:38.9211 INFO Finishing Initialisation...
+2017-10-19 05:51:38.9570 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:38.9881 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 05:51:46.2546 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:46.2666 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:46.2786 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:50.7498 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:50.8154 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:50.8249 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 05:51:50.8583 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:04:34.5853 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 06:04:34.8289 INFO Initialising Components...
+2017-10-19 06:04:37.9502 INFO Checking Database Connection...
+2017-10-19 06:04:38.0143 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:04:41.2041 INFO Checking License...
+2017-10-19 06:04:41.2299 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:04:41.4777 INFO Sucess: find rockey2 : 1
+2017-10-19 06:04:41.4818 INFO Sucess: open rockey2
+2017-10-19 06:04:41.5396 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 06:04:44.5571 INFO Finishing Initialisation...
+2017-10-19 06:04:44.5771 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:04:44.6051 INFO Sucess: find rockey2 : 1
+2017-10-19 06:04:44.6051 INFO Sucess: open rockey2
+2017-10-19 06:04:44.6806 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 06:05:12.9913 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:13.0998 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:13.1239 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:20.2271 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:20.2727 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:20.2808 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 06:05:20.3048 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:23.4998 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:25:23.9317 INFO Initialising Components...
+2017-10-19 21:25:27.2375 INFO Checking Database Connection...
+2017-10-19 21:25:27.4872 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:31.1995 INFO Checking License...
+2017-10-19 21:25:31.1995 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:31.7720 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 21:25:36.8148 INFO Finishing Initialisation...
+2017-10-19 21:25:36.8148 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:36.8349 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 21:25:50.1643 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:50.1799 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:50.1799 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:54.2527 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:54.2840 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:54.2996 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:25:54.3152 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:27:55.7241 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:27:55.9969 INFO Initialising Components...
+2017-10-19 21:27:59.1248 INFO Checking Database Connection...
+2017-10-19 21:27:59.1559 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:28:02.2609 INFO Checking License...
+2017-10-19 21:28:02.2825 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:28:02.4831 INFO Sucess: find rockey2 : 1
+2017-10-19 21:28:02.4831 INFO Sucess: open rockey2
+2017-10-19 21:28:02.5457 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:28:05.5817 INFO Finishing Initialisation...
+2017-10-19 21:28:05.5817 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:28:05.6174 INFO Sucess: find rockey2 : 1
+2017-10-19 21:28:05.6331 INFO Sucess: open rockey2
+2017-10-19 21:28:05.7014 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:29:29.1693 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:29.1693 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:29.1693 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:32.7121 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:32.7434 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:32.7590 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:32.7811 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:39.8527 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:39.8527 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:39.8683 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:29:48.9279 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:45:58.3526 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:45:58.6573 INFO Initialising Components...
+2017-10-19 21:46:01.7998 INFO Checking Database Connection...
+2017-10-19 21:46:02.0951 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:46:05.8313 INFO Checking License...
+2017-10-19 21:46:05.8781 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:46:06.8482 INFO Sucess: find rockey2 : 1
+2017-10-19 21:46:06.8638 INFO Sucess: open rockey2
+2017-10-19 21:46:06.9164 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:46:09.9495 INFO Finishing Initialisation...
+2017-10-19 21:46:09.9962 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:46:10.0495 INFO Sucess: find rockey2 : 1
+2017-10-19 21:46:10.0495 INFO Sucess: open rockey2
+2017-10-19 21:46:10.1133 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:47:53.2259 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:47:53.4967 INFO Initialising Components...
+2017-10-19 21:47:56.5853 INFO Checking Database Connection...
+2017-10-19 21:47:56.6276 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:47:59.7106 INFO Checking License...
+2017-10-19 21:47:59.7311 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:47:59.9480 INFO Sucess: find rockey2 : 1
+2017-10-19 21:48:00.0091 INFO Sucess: open rockey2
+2017-10-19 21:48:00.0756 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:48:03.0847 INFO Finishing Initialisation...
+2017-10-19 21:48:03.1451 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:48:03.1681 INFO Sucess: find rockey2 : 1
+2017-10-19 21:48:03.1681 INFO Sucess: open rockey2
+2017-10-19 21:48:03.2275 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:55:46.6129 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:55:46.8974 INFO Initialising Components...
+2017-10-19 21:55:50.0068 INFO Checking Database Connection...
+2017-10-19 21:55:50.0445 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:55:53.1254 INFO Checking License...
+2017-10-19 21:55:53.1254 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:55:53.3513 INFO Sucess: find rockey2 : 1
+2017-10-19 21:55:53.3672 INFO Sucess: open rockey2
+2017-10-19 21:55:53.4297 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:55:56.4459 INFO Finishing Initialisation...
+2017-10-19 21:55:56.4510 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:55:56.4666 INFO Sucess: find rockey2 : 1
+2017-10-19 21:55:56.4666 INFO Sucess: open rockey2
+2017-10-19 21:55:56.5293 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:57:11.4862 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 21:57:11.7018 INFO Initialising Components...
+2017-10-19 21:57:14.7972 INFO Checking Database Connection...
+2017-10-19 21:57:14.8282 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:57:17.9487 INFO Checking License...
+2017-10-19 21:57:17.9487 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:57:18.1673 INFO Sucess: find rockey2 : 1
+2017-10-19 21:57:18.1673 INFO Sucess: open rockey2
+2017-10-19 21:57:18.2177 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 21:57:21.2403 INFO Finishing Initialisation...
+2017-10-19 21:57:21.2558 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 21:57:21.2714 INFO Sucess: find rockey2 : 1
+2017-10-19 21:57:21.2895 INFO Sucess: open rockey2
+2017-10-19 21:57:21.3400 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:03:01.6576 INFO Database file location: E:\IBTS\WeighPot-v1\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 22:03:01.8891 INFO Initialising Components...
+2017-10-19 22:03:04.9969 INFO Checking Database Connection...
+2017-10-19 22:03:05.0815 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:03:08.2183 INFO Checking License...
+2017-10-19 22:03:08.2379 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:03:08.4356 INFO Sucess: find rockey2 : 1
+2017-10-19 22:03:08.4356 INFO Sucess: open rockey2
+2017-10-19 22:03:08.4984 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:03:11.5245 INFO Finishing Initialisation...
+2017-10-19 22:03:11.5285 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:03:11.5598 INFO Sucess: find rockey2 : 1
+2017-10-19 22:03:11.6279 INFO Sucess: open rockey2
+2017-10-19 22:03:11.6907 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:14:33.2973 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 22:14:33.4979 INFO Initialising Components...
+2017-10-19 22:14:36.6156 INFO Checking Database Connection...
+2017-10-19 22:14:36.6625 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:14:39.7896 INFO Checking License...
+2017-10-19 22:14:39.8091 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:14:40.0177 INFO Sucess: find rockey2 : 1
+2017-10-19 22:14:40.0337 INFO Sucess: open rockey2
+2017-10-19 22:14:40.0931 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:14:43.1209 INFO Finishing Initialisation...
+2017-10-19 22:14:43.1209 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:14:43.1209 INFO Sucess: find rockey2 : 1
+2017-10-19 22:14:43.1209 INFO Sucess: open rockey2
+2017-10-19 22:14:43.2043 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:16:54.0861 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 22:16:54.3339 INFO Initialising Components...
+2017-10-19 22:16:57.4192 INFO Checking Database Connection...
+2017-10-19 22:16:57.5037 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:17:00.6306 INFO Checking License...
+2017-10-19 22:17:00.6461 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:17:00.8814 INFO Sucess: find rockey2 : 1
+2017-10-19 22:17:00.8814 INFO Sucess: open rockey2
+2017-10-19 22:17:00.9309 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:17:03.9489 INFO Finishing Initialisation...
+2017-10-19 22:17:03.9489 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:17:03.9857 INFO Sucess: find rockey2 : 1
+2017-10-19 22:17:03.9857 INFO Sucess: open rockey2
+2017-10-19 22:17:04.0492 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:50:31.1186 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 22:50:31.4104 INFO Initialising Components...
+2017-10-19 22:50:34.5174 INFO Checking Database Connection...
+2017-10-19 22:50:34.6481 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:50:37.7720 INFO Checking License...
+2017-10-19 22:50:37.8579 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:50:38.0559 INFO Sucess: find rockey2 : 1
+2017-10-19 22:50:38.0716 INFO Sucess: open rockey2
+2017-10-19 22:50:38.1425 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:50:41.1594 INFO Finishing Initialisation...
+2017-10-19 22:50:41.1907 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:50:41.2121 INFO Sucess: find rockey2 : 1
+2017-10-19 22:50:41.2279 INFO Sucess: open rockey2
+2017-10-19 22:50:41.2749 INFO The uid is : 2618208898 and hid 2564932284
+2017-10-19 22:50:41.2749 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:21.2224 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:21.3223 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:21.3600 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:36.5437 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:36.5906 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:36.5906 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:51:36.6284 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:52:44.8309 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 22:52:45.1087 INFO Initialising Components...
+2017-10-19 22:52:48.2495 INFO Checking Database Connection...
+2017-10-19 22:52:48.2871 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:52:51.4057 INFO Checking License...
+2017-10-19 22:52:51.4212 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:52:51.5733 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 22:53:01.4672 INFO Finishing Initialisation...
+2017-10-19 22:53:01.4672 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 22:53:01.4874 INFO Error: not find any rockey2 : -1609564149
+2017-10-19 22:53:03.0405 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:00:50.1131 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:00:50.4289 INFO Initialising Components...
+2017-10-19 23:00:53.5699 INFO Checking Database Connection...
+2017-10-19 23:00:53.6213 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:00:56.7205 INFO Finishing Initialisation...
+2017-10-19 23:00:56.7397 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:03.5940 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:03.5940 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:03.6096 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:21.0657 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:21.0969 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:21.0969 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:01:21.1281 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:04:13.4606 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:04:13.6887 INFO Initialising Components...
+2017-10-19 23:04:16.8066 INFO Checking Database Connection...
+2017-10-19 23:04:16.8535 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:04:19.9697 INFO Finishing Initialisation...
+2017-10-19 23:04:19.9852 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:04:29.2894 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:04:29.3048 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:04:29.3219 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:06:26.1160 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:06:26.4174 INFO Initialising Components...
+2017-10-19 23:06:29.5199 INFO Checking Database Connection...
+2017-10-19 23:06:29.5577 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:06:32.8230 INFO Finishing Initialisation...
+2017-10-19 23:06:32.8415 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:06:55.7929 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:06:56.0069 INFO Initialising Components...
+2017-10-19 23:06:59.1384 INFO Checking Database Connection...
+2017-10-19 23:06:59.1853 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:02.2717 INFO Finishing Initialisation...
+2017-10-19 23:07:02.2872 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:43.7194 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:07:43.9681 INFO Initialising Components...
+2017-10-19 23:07:47.0571 INFO Checking Database Connection...
+2017-10-19 23:07:47.1730 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:50.2786 INFO Finishing Initialisation...
+2017-10-19 23:07:50.3102 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:53.8202 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:53.8359 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:07:53.8359 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:08:36.4730 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:08:36.7373 INFO Initialising Components...
+2017-10-19 23:08:39.8418 INFO Checking Database Connection...
+2017-10-19 23:08:39.9107 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:08:43.0134 INFO Finishing Initialisation...
+2017-10-19 23:08:43.0289 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:09:32.7134 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:09:32.9611 INFO Initialising Components...
+2017-10-19 23:09:36.0587 INFO Checking Database Connection...
+2017-10-19 23:09:36.0897 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:09:39.1924 INFO Finishing Initialisation...
+2017-10-19 23:09:39.1924 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:07.2004 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:10:07.4656 INFO Initialising Components...
+2017-10-19 23:10:10.5684 INFO Checking Database Connection...
+2017-10-19 23:10:10.6312 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:13.7367 INFO Finishing Initialisation...
+2017-10-19 23:10:13.7367 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:16.8742 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:16.8899 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:16.8899 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:10:24.6966 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:20:51.0750 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:20:51.3493 INFO Initialising Components...
+2017-10-19 23:20:54.4730 INFO Checking Database Connection...
+2017-10-19 23:20:54.5264 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:20:57.6278 INFO Finishing Initialisation...
+2017-10-19 23:20:57.6470 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:01.5667 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:01.5822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:01.5822 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:35.5288 INFO Database file location: E:\IBTS\ITWhiz.ScaleSoft\ITWhiz.ScaleSoft.Desktop\
+2017-10-19 23:21:35.8201 INFO Initialising Components...
+2017-10-19 23:21:38.9271 INFO Checking Database Connection...
+2017-10-19 23:21:39.0116 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:42.0975 INFO Finishing Initialisation...
+2017-10-19 23:21:42.0975 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:56.8466 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:56.8620 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;
+2017-10-19 23:21:56.8776 INFO Database connection string : Data Source=|DataDirectory|\ScaleSoft.db3;Version=3;

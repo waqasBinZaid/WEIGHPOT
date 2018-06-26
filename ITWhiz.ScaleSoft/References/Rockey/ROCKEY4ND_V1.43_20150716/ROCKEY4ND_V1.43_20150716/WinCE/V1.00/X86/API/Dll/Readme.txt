@@ -1,0 +1,1 @@
+Please copy Rockey4ND.dll to "\Windows".

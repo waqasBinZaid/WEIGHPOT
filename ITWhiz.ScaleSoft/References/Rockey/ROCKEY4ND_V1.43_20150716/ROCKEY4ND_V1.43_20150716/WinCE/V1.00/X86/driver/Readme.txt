@@ -1,0 +1,1 @@
+Please copy FT_HID.dll to "\Windows" and add FT_HID.reg in system registry.

@@ -1,0 +1,140 @@
+Attribute VB_Name = "Module1"
+<HTML>
+<HEAD>
+<META name=VI60_defaultClientScript content=VBScript>
+<META NAME="GENERATOR" Content="Microsoft FrontPage 4.0">
+<TITLE>Rockey IV Sample (Visual Basic Script)</TITLE>
+</HEAD>
+<BODY>
+<OBJECT classid=clsid:3E0B4E78-EB6C-11D3-B6BF-0000E840043D height=50
+id=RockeyCtrl1 style="LEFT: 0px; TOP: 0px" width=100>
+        <PARAM NAME="_Version" VALUE="65536">
+        <PARAM NAME="_ExtentX" VALUE="2646">
+        <PARAM NAME="_ExtentY" VALUE="1323">
+        <PARAM NAME="_StockProps" VALUE="0">
+</OBJECT>
+<SCRIPT ID=clientEventHandlersVBS LANGUAGE=vbscript>
+
+<!--
+Const RY_FIND = 1                              'find Rockey
+Const RY_FIND_NEXT = 2                         'find next Rockey
+Const RY_OPEN = 3                              'open Rockey
+Const RY_CLOSE = 4                             'close Rockey
+Const RY_WRITE_ARITHMETIC = 13                 'write algorithm
+Const RY_CALCULATE1 = 14                                           'calculate 1
+
+Dim errCode
+Dim bHasRockey
+
+Sub window_onload()
+    RockeyCtrl1.P1 = &HC44C
+    RockeyCtrl1.P2 = &HC8F8
+    '   ****RockeyCtrl1.P3 = &H799                                      P3 and P4 are unavailable to end users.
+    '   ****RockeyCtrl1.P4 = &HC43B
+        errCode = RockeyCtrl1.Rockey(RY_FIND)
+        If Not (errCode = 0) Then
+                bHasRockey = False
+                MyText2.innerText = RockeyCtrl1.ErrToStr(errCode)
+        Else
+                bHasRockey = True
+        End If
+End Sub
+Sub button1_onclick()
+        If bHasRockey Then
+                WriteArithmetric                        
+        End If
+End Sub
+Sub button2_onclick()
+        If bHasRockey Then
+                Calculate                                       'calculate with Rockey
+        End If
+End Sub
+Sub WriteArithmetric()
+    RockeyCtrl1.P1 = &HC44C
+    RockeyCtrl1.P2 = &HC8F8
+
+    RockeyCtrl1.P3 = &H799                      'P3 and P4 are needed for writing algorithm
+    RockeyCtrl1.P4 = &HC43B
+    
+    errCode = RockeyCtrl1.Rockey(RY_FIND)
+    
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+    
+    errCode = RockeyCtrl1.Rockey(RY_OPEN)
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+    
+    RockeyCtrl1.P1 = 0
+    RockeyCtrl1.Buffer = "A=B+C"                                'p1 = p2 + p3
+    Err = RockeyCtrl1.Rockey(RY_WRITE_ARITHMETIC)
+
+        If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+        Else
+                MsgBox "write successfully" + RockeyCtrl1.ErrToStr(errCode)
+        End If
+    
+    errCode = RockeyCtrl1.Rockey(RY_CLOSE)
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+End Sub
+Sub Calculate()
+        RockeyCtrl1.P1 = &HC44C                         'p1 and p2 are needed to perform calculate.
+    RockeyCtrl1.P2 = &HC8F8
+    
+    errCode = RockeyCtrl1.Rockey(RY_FIND)
+    
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+    
+    errCode = RockeyCtrl1.Rockey(RY_OPEN)
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+    
+    Dim strInput
+    strInput = text1.Value
+    CryptStr strInput                   'encryption for dialog
+    MyText2.innerText = "After encyption, return value£º" + strInput
+    
+    errCode = RockeyCtrl1.Rockey(RY_CLOSE)
+    If Not (errCode = 0) Then
+        MsgBox RockeyCtrl1.ErrToStr(errCode)
+    End If
+End Sub
+Sub CryptStr(ByRef strSr)               'For more secure, you can write your algorithm into ActiveX.
+    Dim i
+    Dim iTemp
+    Dim sLen
+    Dim sTemp1
+    Dim sTemp2
+    sTemp1 = strSr
+    strSr = ""
+    sLen = Len(sTemp1)
+    For i = 1 To sLen                                           'Use algorithm A=B+C, same as p1= p2 + p3 ,p2 = 'a' ,p3 = 1 then p1 = 'b'
+        sTemp2 = Mid(sTemp1, i, 1)
+        RockeyCtrl1.P2 = Asc(sTemp2)
+        RockeyCtrl1.Lp1 = 0
+        RockeyCtrl1.P3 = 1
+        errCode = RockeyCtrl1.Rockey(RY_CALCULATE1)             'perform calculate 1
+        If Not (errCode = 0) Then
+            MsgBox RockeyCtrl1.ErrToStr(errCode)
+        End If
+        strSr = strSr + Chr(RockeyCtrl1.P1)
+    Next
+End Sub
+-->
+</SCRIPT>
+<INPUT type="button" value="Write Algorithm" id=button1 name=button1></P>
+<P>&nbsp;</P>
+<P id=MyText1>Input:</P>
+<INPUT id=text1 name=text1 >
+<INPUT type="button" value="Search" id=button2 name=button2></P>
+<P id=MyText2>return value:???</P>
+</BODY>
+</HTML>

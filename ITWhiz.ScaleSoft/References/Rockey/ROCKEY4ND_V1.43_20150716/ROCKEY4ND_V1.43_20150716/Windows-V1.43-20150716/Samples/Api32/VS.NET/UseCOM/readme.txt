@@ -1,0 +1,1 @@
+Open a Command Prompt console, enter COM folder and use regsvr32 Rockey4NDCom.dll to register COM component.

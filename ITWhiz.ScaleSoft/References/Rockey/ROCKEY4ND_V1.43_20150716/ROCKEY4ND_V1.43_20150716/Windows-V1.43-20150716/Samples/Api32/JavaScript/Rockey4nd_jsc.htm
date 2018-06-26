@@ -1,0 +1,99 @@
+<%@ Language=JavaScript%>
+<HTML>
+<HEAD>
+<META name=VI60_defaultClientScript content=JavaScript>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
+<TITLE>Rockey IV Sample (JavaScript)</TITLE>
+<OBJECT classid="clsid:3E0B4E78-EB6C-11D3-B6BF-0000E840043D" id=RockeyCtrl1 style="LEFT: 0px; TOP: 0px">
+	<PARAM NAME="_Version" VALUE="65536">
+	<PARAM NAME="_ExtentX" VALUE="2646">
+	<PARAM NAME="_ExtentY" VALUE="1323">
+	<PARAM NAME="_StockProps" VALUE="0"></OBJECT>
+<SCRIPT ID=clientEventHandlersJS LANGUAGE=javascript>
+<!--
+function window_onload() {
+	var errCode;
+	var bhasRockey;
+    RockeyCtrl1.P1 = -15284;
+    RockeyCtrl1.P2 = -14088;
+    //	****RockeyCtrl1.P3 = 1945;					P3 and P4 are unavailable to end users
+    //	****RockeyCtrl1.P4 = -15301;
+	errCode = RockeyCtrl1.Rockey(1);
+	if (!errCode == 0)
+	{
+		bHasRockey = false;
+		MyText2.innerText = RockeyCtrl1.ErrToStr(errCode);
+	}
+	else
+	{
+		bHasRockey = true;
+	}
+}
+
+function button2_onclick() {
+	if(bHasRockey)
+		writeArithmetric();		
+}
+
+function button1_onclick() {
+	if(bHasRockey)
+		calculate();			//calculate with Rockey
+}
+function writeArithmetric(){
+	var errCode;
+	
+	RockeyCtrl1.P1 = -15284;
+    RockeyCtrl1.P2 = -14088;
+    RockeyCtrl1.P3 = 1945;		//P3 and P4 are needed for writing algorithm
+    RockeyCtrl1.P4 = -15301;
+
+    errCode = RockeyCtrl1.Rockey(1);		//RY_FIND
+    
+    if (!errCode == 0) 
+    {
+        window.alert(RockeyCtrl1.ErrToStr(errCode));
+    }
+    
+    
+    errCode = RockeyCtrl1.Rockey(3);		//RY_OPEN
+    if (!errCode == 0)
+    {
+        window.alert(RockeyCtrl1.ErrToStr(errCode));
+    }
+    
+    RockeyCtrl1.P1 = 0;
+    RockeyCtrl1.Buffer = "A=B+C";				//p1 = p2 + p3
+    errCode = RockeyCtrl1.Rockey(13);	//RY_WRITE_ARITHMETIC 
+	if (!errCode == 0)
+    {
+        window.alert(RockeyCtrl1.ErrToStr(errCode));
+    }
+	else
+	{
+		window.alert("write successfully"+RockeyCtrl1.ErrToStr(errCode));
+	}
+    
+    errCode = RockeyCtrl1.Rockey(4)
+    if (!errCode == 0)
+    {
+        window.alert(RockeyCtrl1.ErrToStr(errCode));
+     }
+}
+function calculate(){			//please see sample for VbScript
+	window.alert("please see sample for VbScript");
+}
+//-->
+</SCRIPT>
+
+</HEAD>
+<BODY LANGUAGE=javascript onload="return window_onload()">
+<P>&nbsp;</P>
+<INPUT id=button2 name=button2 type=button value=Write Algorithm LANGUAGE=javascript onclick="return button2_onclick()"></P>
+<P id=MyText1>Input:</P>
+<INPUT id=text1 name=text1 
+style="LEFT: 11px; TOP: 91px">&nbsp;&nbsp;&nbsp;&nbsp;
+<INPUT id=button1 name=button1 type=button value=Search LANGUAGE=javascript onclick="return button1_onclick()">
+<P></P>
+<P id=MyText2>return value:???</P>
+</BODY>
+</HTML>

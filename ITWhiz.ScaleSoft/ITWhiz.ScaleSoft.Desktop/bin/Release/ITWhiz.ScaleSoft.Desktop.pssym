@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="5000" PostSharpLinesOfCode="0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[ITWhiz.ScaleSoft.Desktop]ITWhiz.ScaleSoft.Desktop.Controls.AuthorizeAttribute">
+    <Instance Declaration="#2=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsParties_Click(System.Object, System.EventArgs)" Id="696b48442adba7a0">
+      <Target>
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry" Ordinal="0" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#4=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiSecurityRole_Click(System.Object, System.EventArgs)" Id="696b4844dd827114">
+      <Target>
+        <JoinPoint Description="#3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#5=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiPartiesListing_Click(System.Object, System.EventArgs)" Id="696b4844743a8b0d">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="2" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiUser_Click(System.Object, System.EventArgs)" Id="696b4844aeec3b5d">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#7=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiBackup_Click(System.Object, System.EventArgs)" Id="696b48444e6cb9fe">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="4" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#8=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiRestore_Click(System.Object, System.EventArgs)" Id="696b4844c774960b">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="5" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#9=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiWeighments_Click(System.Object, System.EventArgs)" Id="696b48446dca459e">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="6" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#10=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiWeighmentEntry_Click(System.Object, System.EventArgs)" Id="696b4844d52eb106">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="7" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#11=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiProducts_Click(System.Object, System.EventArgs)" Id="696b4844eb00aea9">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="8" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#12=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiSystemSettings_Click(System.Object, System.EventArgs)" Id="696b4844d376b4fd">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="9" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#13=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiWeighmentListing_Click(System.Object, System.EventArgs)" Id="696b4844f66154e8">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="10" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#14=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiProductWiseListing_Click(System.Object, System.EventArgs)" Id="696b484466e81c92">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="11" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#15=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiProductwise_Click(System.Object, System.EventArgs)" Id="696b484471f5eae9">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="12" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#16=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmMain::tsmiProductsListing_Click(System.Object, System.EventArgs)" Id="696b484413098ebc">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="13" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#17=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmParties::tsbNew_Click(System.Object, System.EventArgs)" Id="696b4844eaa7a142">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="14" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#18=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmParties::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b4844092099c2">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="15" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#19=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmProducts::tsbNew_Click(System.Object, System.EventArgs)" Id="696b4844c62be8d8">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="16" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#20=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmProducts::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b48440851324d">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="17" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#21=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSecurityRole::tsbNew_Click(System.Object, System.EventArgs)" Id="696b48443944d983">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="18" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#22=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSecurityRole::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b484440ff32be">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="19" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#23=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmSystemSettings::CmdLogin_Click(System.Object, System.EventArgs)" Id="696b4844c3cfaf0e">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="20" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#24=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmUsers::tsbNew_Click(System.Object, System.EventArgs)" Id="696b4844c5a681b4">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="21" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#25=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmUsers::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b4844e8f2bad3">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="22" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#26=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmWeighmentEntry::CmdOK_Click(System.Object, System.EventArgs)" Id="696b4844a5f39bf1">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="23" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#27=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmWeighments::tsbNew_Click(System.Object, System.EventArgs)" Id="696b4844faddee99">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="24" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#28=M:[ITWhiz.ScaleSoft.Desktop]IWeigh.FrmWeighments::tsbEdit_Click(System.Object, System.EventArgs)" Id="696b4844af741c76">
+      <Target>
+        <JoinPoint Description="#3" Ordinal="25" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#29=M:[ITWhiz.ScaleSoft.Desktop]ITWhiz.ScaleSoft.Desktop.Controls.AuthorizeAttribute::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#30=2" Description="#31=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>
